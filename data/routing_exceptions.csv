@@ -1,0 +1,537 @@
+Account_ID,Company_Name,Country,Industry,Expected_Tier,Current_Territory,Expected_Territory,Current_Owner,Expected_Owner,Routing_Status,Exception_Type,Priority,Open_Pipeline_Value,Resolution_Status,Is_Open
+ACC-100008,Zujain Engineering Pvt Ltd,India,Manufacturing,SMB,India,India,,Arjun Mehta,Unassigned,No Owner,Medium,4500.0,Awaiting Assignment,1
+ACC-100012,Caisair Labs Pty Ltd,Australia,Software,SMB,ANZ,ANZ,James Wilson,James Wilson,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-100030,"Laihos Industries Co., Ltd.",,Manufacturing,SMB,Korea,Unknown,Min-Jun Park,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-100034,Pouwiage Care Pvt Ltd,India,Healthcare,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,Medium,44000.0,Awaiting Data Enrichment,1
+ACC-100038,Yeidiaza Holdings JSC,,Financial Services,SMB,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,12000.0,Awaiting Data Enrichment,1
+ACC-100108,Jijai Telecom JSC,,Telecommunications,Mid-Market,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,,Awaiting Data Enrichment,1
+ACC-100129,Nahial Freight JSC,,Logistics,SMB,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,25000.0,Awaiting Data Enrichment,1
+ACC-100130,Mikaheir Digital Ltd,New Zealand,Software,SMB,ANZ,ANZ,,James Wilson,Unassigned,No Owner,Medium,12000.0,Awaiting Assignment,1
+ACC-100137,Gudamiar Partners Sdn Bhd,Malaysia,Professional Services,Mid-Market,,SEA,Daniel Lim,Daniel Lim,Unassigned,No Territory,Medium,19500.0,Awaiting Assignment,1
+ACC-100155,Yegouzu Partners Pty Ltd,Australia,Professional Services,SMB,,ANZ,James Wilson,James Wilson,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-100169,Vijeigia Holdings Pvt Ltd,India,Financial Services,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,Medium,64000.0,Awaiting Data Enrichment,1
+ACC-100188,Souniteil Manufacturing Pty Ltd,,Manufacturing,Mid-Market,ANZ,Unknown,James Wilson,,Ambiguous,Missing Country,Medium,,Awaiting Data Enrichment,1
+ACC-100196,Wejoul Mart Pte Ltd,Singapore,Retail,SMB,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-100200,Gohouyia Industries Pty Ltd,Australia,Manufacturing,Mid-Market,SEA,ANZ,Daniel Lim,James Wilson,Incorrectly Routed,Territory Mismatch,High,130000.0,Ready to Reassign,1
+ACC-100204,Zeiwa Systems Private Limited,India,Software,SMB,India,India,Arjun Mehta,Arjun Mehta,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-100212,"YEICAN CLOUD CO., LTD.",South Korea,Software,SMB,Korea,Korea,Min-Jun Park,Min-Jun Park,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-100217,Hodeihin Consulting Pte Ltd,Singapore,Professional Services,SMB,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-100242,PT RIRUL ENGINEERING,Indonesia,Manufacturing,SMB,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-100253,Naisugais Care Sdn Bhd,Malaysia,Healthcare,SMB,,SEA,Daniel Lim,Daniel Lim,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-100262,PIACUS PARTNERS K.K.,Japan,Professional Services,SMB,Japan,Japan,Yuki Tanaka,Yuki Tanaka,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-100282,Kehaidam Assurance Inc.,Philippines,Financial Services,Enterprise,,SEA,Daniel Lim,Daniel Lim,Unassigned,No Territory,High,203000.0,Awaiting Assignment,1
+ACC-100284,Nodou Biosciences Pty. Ltd.,Australia,Healthcare,SMB,ANZ,ANZ,James Wilson,James Wilson,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-100285,Maicounous Financial Sdn Bhd,Malaysia,Financial Services,Mid-Market,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Medium,,Ready to Reassign,1
+ACC-100287,Siafia Commerce Pte Ltd,Singapore,Retail,Mid-Market,,SEA,Daniel Lim,Daniel Lim,Unassigned,No Territory,Medium,,Awaiting Assignment,1
+ACC-100292,Mecom Manufacturing K.K.,,Manufacturing,SMB,,Unknown,Yuki Tanaka,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-100304,"Pibodur Cloud Co., Ltd.",South Korea,Software,SMB,Japan,Korea,Yuki Tanaka,Min-Jun Park,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-100305,Biayiam Technologies Private Limited,India,Software,SMB,India,India,Arjun Mehta,Arjun Mehta,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-100306,Rebis Biosciences Pvt Ltd,India,Healthcare,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,Low,,Awaiting Data Enrichment,1
+ACC-100335,"Wewem Materials Co., Ltd.",Thailand,Manufacturing,Mid-Market,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Medium,,Ready to Reassign,1
+ACC-100349,Wehoupia Technologies Ltd,,Software,SMB,ANZ,Unknown,James Wilson,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-100358,Fohivis Capital Pty Ltd,Australia,Financial Services,SMB,ANZ,ANZ,,James Wilson,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-100359,"Mupoum Medical Co., Ltd.",South Korea,Healthcare,Unknown,Japan,Korea,Yuki Tanaka,Min-Jun Park,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-100364,Vuzoukox Assurance Pte Ltd,,Financial Services,SMB,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,15500.0,Awaiting Data Enrichment,1
+ACC-100365,Hiatur Commerce Pte Ltd,,Retail,SMB,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-100389,Toudaihou Assurance Pvt Ltd,India,Financial Services,SMB,,India,Arjun Mehta,Arjun Mehta,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-100392,Giyipum Institute Pvt Ltd,India,Education,Mid-Market,TBD-Unassigned,India,Arjun Mehta,Arjun Mehta,Incorrectly Routed,Invalid Territory Value,High,126500.0,Ready to Reassign,1
+ACC-100401,Lagou Academy Pvt Ltd,India,Education,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,Medium,67000.0,Awaiting Data Enrichment,1
+ACC-100410,Haijam Care JSC,Vietnam,Healthcare,SMB,,SEA,Daniel Lim,Daniel Lim,Unassigned,No Territory,Medium,28000.0,Awaiting Assignment,1
+ACC-100413,MAICIACAS MANUFACTURING INC.,Philippines,Manufacturing,Mid-Market,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-100417,Yoyian Digital K.K.,Japan,Software,SMB,TBD-Unassigned,Japan,Yuki Tanaka,Yuki Tanaka,Incorrectly Routed,Invalid Territory Value,Low,,Ready to Reassign,1
+ACC-100419,Yeiboupail Industries Pvt Ltd,,Manufacturing,Mid-Market,,Unknown,Arjun Mehta,,Ambiguous,Missing Country,Medium,65500.0,Awaiting Data Enrichment,1
+ACC-100436,Wateim Supply Chain K.K.,Japan,Logistics,SMB,Korea,Japan,Min-Jun Park,Yuki Tanaka,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-100437,Maiyol Partners Pvt Ltd,India,Professional Services,Mid-Market,India,India,Priya Sharma,Arjun Mehta,Incorrectly Routed,Owner Mismatch,Medium,,Ready to Reassign,1
+ACC-100444,Pouhour Health Pvt Ltd,,Healthcare,SMB,,Unknown,Arjun Mehta,,Ambiguous,Missing Country,Medium,18000.0,Awaiting Data Enrichment,1
+ACC-100451,Yuleim Regional Council,,Government,SMB,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,29500.0,Awaiting Data Enrichment,1
+ACC-100464,Habiyix Labs K.K.,Japan,Software,SMB,Japan,Japan,,Yuki Tanaka,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-100469,Zaiwes Industries Pty Ltd,,Manufacturing,SMB,,Unknown,James Wilson,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-100477,Leibougeir Financial K.K.,,Financial Services,SMB,Japan,Unknown,Yuki Tanaka,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-100485,Neveiga Industries K.K.,Japan,Manufacturing,SMB,Japan,Japan,,Yuki Tanaka,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-100490,Wanesur Commerce K.K.,Japan,Retail,Mid-Market,Korea,Japan,Min-Jun Park,Yuki Tanaka,Incorrectly Routed,Territory Mismatch,Medium,86500.0,Ready to Reassign,1
+ACC-100497,Yocaifiam Cloud Pty Ltd,Australia,Software,SMB,APAC,ANZ,James Wilson,James Wilson,Incorrectly Routed,Invalid Territory Value,Medium,21000.0,Ready to Reassign,1
+ACC-100499,Couvias Manufacturing Pvt Ltd,India,Manufacturing,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,Medium,6500.0,Awaiting Data Enrichment,1
+ACC-100503,Wiayum Engineering K.K.,Japan,Manufacturing,SMB,Japan,Japan,Yuki Tanaka,Yuki Tanaka,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-100510,"Mainiakeix Health Co., Ltd.",South Korea,Healthcare,Mid-Market,,Korea,Min-Jun Park,Min-Jun Park,Unassigned,No Territory,Medium,,Awaiting Assignment,1
+ACC-100512,Reloux Education K.K.,Japan,Education,SMB,Japan,Japan,,Yuki Tanaka,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-100518,Deziwi Materials Pvt Ltd,,Manufacturing,SMB,India,Unknown,Arjun Mehta,,Ambiguous,Missing Country,Medium,20000.0,Awaiting Data Enrichment,1
+ACC-100522,Natar Telecom K.K.,Japan,Telecommunications,SMB,,Japan,Yuki Tanaka,Yuki Tanaka,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-100523,Riayous Logistics JSC,,Logistics,SMB,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-100524,PT Beicai Technologies,Indonesia,Software,SMB,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-100527,"Hejom Manufacturing Co., Ltd.",,Manufacturing,SMB,Korea,Unknown,Min-Jun Park,,Ambiguous,Missing Country,Medium,12500.0,Awaiting Data Enrichment,1
+ACC-100541,Saidum Systems K.K.,,Software,SMB,,Unknown,Yuki Tanaka,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-100542,Bebaix Engineering K.K.,Japan,Manufacturing,Enterprise,,Japan,Yuki Tanaka,Yuki Tanaka,Unassigned,No Territory,High,188000.0,Awaiting Assignment,1
+ACC-100543,Kaiseiyoul Technologies Pte Ltd,,Software,Enterprise,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,High,,Awaiting Data Enrichment,1
+ACC-100555,Weikeimein Capital Pvt Ltd,India,Financial Services,Mid-Market,India,India,,Arjun Mehta,Unassigned,No Owner,Medium,,Awaiting Assignment,1
+ACC-100565,Zeiwejias Regional Council,India,Government,Enterprise,,India,Priya Sharma,Priya Sharma,Unassigned,No Territory,High,,Awaiting Assignment,1
+ACC-100595,Gainis Academy K.K.,Japan,Education,SMB,Japan,Japan,,Yuki Tanaka,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-100597,Geimojia Financial K.K.,Japan,Financial Services,Mid-Market,Japan,Japan,,Yuki Tanaka,Unassigned,No Owner,Medium,85500.0,Awaiting Assignment,1
+ACC-100609,Bebor Engineering JSC,,Manufacturing,Enterprise,,Unknown,Daniel Lim,,Ambiguous,Missing Country,High,,Awaiting Data Enrichment,1
+ACC-100610,"Bialugais Cloud Co., Ltd.",Thailand,Software,Mid-Market,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,High,127500.0,Ready to Reassign,1
+ACC-100614,Palous Systems K.K.,,Software,SMB,Japan,Unknown,Yuki Tanaka,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-100630,Pojejoun Stores Ltd,,Retail,SMB,,Unknown,James Wilson,,Ambiguous,Missing Country,Medium,30000.0,Awaiting Data Enrichment,1
+ACC-100635,Ceiloudiar Institute JSC,,Education,SMB,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-100681,Juliam Technologies Pty Ltd,,Software,Mid-Market,,Unknown,James Wilson,,Ambiguous,Missing Country,Medium,,Awaiting Data Enrichment,1
+ACC-100694,Giasian Holdings Pvt Ltd,,Financial Services,Enterprise,India,Unknown,Priya Sharma,,Ambiguous,Missing Country,High,,Awaiting Data Enrichment,1
+ACC-100700,PT Tialever Logistics,Indonesia,Logistics,Mid-Market,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,High,110000.0,Ready to Reassign,1
+ACC-100701,Labufian Medical Inc.,,Healthcare,Mid-Market,,Unknown,Daniel Lim,,Ambiguous,Missing Country,High,299500.0,Awaiting Data Enrichment,1
+ACC-100706,Toupoum Care Pvt Ltd,India,Healthcare,Unknown,,India,Arjun Mehta,,Manual Review,Missing Employee Count,Low,,Awaiting Data Enrichment,1
+ACC-100720,PT Kiwocil Materials,Indonesia,Manufacturing,SMB,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Medium,4500.0,Awaiting Assignment,1
+ACC-100733,Zuzouhour Capital Ltd,,Financial Services,SMB,ANZ,Unknown,James Wilson,,Ambiguous,Missing Country,Medium,16000.0,Awaiting Data Enrichment,1
+ACC-100740,Docikous Engineering Inc.,Philippines,Manufacturing,SMB,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Medium,16500.0,Awaiting Assignment,1
+ACC-100742,Dameimour Digital Pty Ltd,Australia,Software,Mid-Market,,ANZ,James Wilson,James Wilson,Unassigned,No Territory,Medium,,Awaiting Assignment,1
+ACC-100744,Fifix Holdings Sdn Bhd,Malaysia,Financial Services,SMB,,SEA,Daniel Lim,Daniel Lim,Unassigned,No Territory,Medium,32000.0,Awaiting Assignment,1
+ACC-100746,Meihim Education Pvt Ltd,,Education,SMB,India,Unknown,Arjun Mehta,,Ambiguous,Missing Country,Medium,12500.0,Awaiting Data Enrichment,1
+ACC-100750,Deiduhoun Holdings Inc.,,Financial Services,SMB,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-100754,Gousu Holdings Sdn Bhd,Malaysia,Financial Services,Mid-Market,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-100756,Zosel Technologies,Vietnam,Software,Mid-Market,ANZ,SEA,James Wilson,Daniel Lim,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-100766,Caivon Manufacturing Pvt Ltd,,Manufacturing,SMB,India,Unknown,Arjun Mehta,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-100787,Podihul Stores JSC,Vietnam,Retail,Mid-Market,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Medium,,Awaiting Assignment,1
+ACC-100792,Poyawain Assurance Ltd,New Zealand,Financial Services,SMB,SEA,ANZ,Daniel Lim,James Wilson,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-100810,Zalinun Industries K.K.,Japan,Manufacturing,SMB,Korea,Japan,Min-Jun Park,Yuki Tanaka,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-100819,Wounopi Solutions Pte Ltd,,Professional Services,SMB,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-100821,BEIFOUWIAS HOLDINGS PTE LTD,Singapore,Financial Services,SMB,SEA,SEA,,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-100842,"Lizeicai Technologies Co., Ltd.",,Software,SMB,Korea,Unknown,Min-Jun Park,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-100851,Napil Commerce Pty Ltd,Australia,Retail,SMB,,ANZ,James Wilson,James Wilson,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-100856,PADEM RETAIL PTY LTD,Australia,Retail,Mid-Market,ANZ,ANZ,James Wilson,James Wilson,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-100863,Baihi Transport Pty Ltd,Asia Pacific,Logistics,SMB,ANZ,Unknown,James Wilson,,Ambiguous,Invalid Country,Low,,Awaiting Data Enrichment,1
+ACC-100876,Pikenail Holdings Sdn Bhd,Malaysia,Financial Services,Mid-Market,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Medium,,Awaiting Assignment,1
+ACC-100877,Louyeitias Telecom Sdn Bhd,Malaysia,Telecommunications,Mid-Market,SEA,SEA,,Daniel Lim,Unassigned,No Owner,High,110500.0,Awaiting Assignment,1
+ACC-100879,Douvias Regional Council,Vietnam,Government,SMB,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-100889,Yepum Capital Pvt Ltd,India,Financial Services,SMB,,India,Arjun Mehta,Arjun Mehta,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-100894,"Tanosis Education Co., Ltd.",,Education,Mid-Market,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,,Awaiting Data Enrichment,1
+ACC-100895,Fupianel Public Services Authority,New Zealand,Government,Mid-Market,TBD-Unassigned,ANZ,James Wilson,James Wilson,Incorrectly Routed,Invalid Territory Value,Medium,32500.0,Ready to Reassign,1
+ACC-100910,Viasiame Consulting Pvt Ltd,India,Professional Services,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,High,137000.0,Awaiting Data Enrichment,1
+ACC-100912,Tidaix Regional Council,Japan,Government,Enterprise,,Japan,Yuki Tanaka,Yuki Tanaka,Unassigned,No Territory,High,,Awaiting Assignment,1
+ACC-100942,Wianaigiax Stores Pty Ltd,Australia,Retail,SMB,,ANZ,James Wilson,James Wilson,Unassigned,No Territory,Medium,22000.0,Awaiting Assignment,1
+ACC-100949,Kazukax Consulting Pty. Ltd.,Australia,Professional Services,SMB,ANZ,ANZ,James Wilson,James Wilson,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-100960,"Hukel Cloud Co., Ltd.",Thailand,Software,SMB,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Medium,16000.0,Awaiting Assignment,1
+ACC-100977,Maihouca Advisory Pvt Ltd,,Professional Services,Mid-Market,India,Unknown,Arjun Mehta,,Ambiguous,Missing Country,Medium,,Awaiting Data Enrichment,1
+ACC-100982,Jaihim Solutions Pvt Ltd,India,Professional Services,Mid-Market,India,India,Priya Sharma,Arjun Mehta,Incorrectly Routed,Owner Mismatch,Medium,,Ready to Reassign,1
+ACC-100984,Wesetian Capital Pty Ltd,,Financial Services,SMB,ANZ,Unknown,James Wilson,,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-100987,Jajiacous Digital Pvt Ltd,India,Software,Mid-Market,India,India,,Arjun Mehta,Unassigned,No Owner,Medium,96500.0,Awaiting Assignment,1
+ACC-100994,"Fegene Systems Co., Ltd.",South Korea,Software,SMB,Japan,Korea,Yuki Tanaka,Min-Jun Park,Incorrectly Routed,Territory Mismatch,Medium,14500.0,Ready to Reassign,1
+ACC-101004,Nojitous Medical Pvt Ltd,,Healthcare,SMB,India,Unknown,,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-101011,Juliajain Assurance JSC,Vietnam,Financial Services,SMB,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-101025,Taisus Networks,New Zealand,Telecommunications,SMB,ANZ,ANZ,James Wilson,James Wilson,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-101037,Ziacaiwox Health,India,Healthcare,SMB,India,India,Arjun Mehta,Arjun Mehta,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-101044,Noupaix Engineering K.K.,,Manufacturing,Mid-Market,Japan,Unknown,Yuki Tanaka,,Ambiguous,Missing Country,Medium,51500.0,Awaiting Data Enrichment,1
+ACC-101063,Zujen Systems Sdn Bhd,Malaysia,Software,Mid-Market,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Medium,,Ready to Reassign,1
+ACC-101065,Neizeser Solutions Inc.,Philippines,Professional Services,SMB,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-101070,Douyol Solutions K.K.,Japan,Professional Services,SMB,,Japan,Yuki Tanaka,Yuki Tanaka,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-101076,"Peitai Communications Co., Ltd.",South Korea,Telecommunications,SMB,Korea,Korea,,Min-Jun Park,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-101083,Yejer Stores Pvt Ltd,,Retail,SMB,India,Unknown,Arjun Mehta,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-101087,Kojiasex Telecom K.K.,,Telecommunications,SMB,Japan,Unknown,Yuki Tanaka,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-101092,PT Zigazen Stores,,Retail,Mid-Market,,Unknown,Daniel Lim,,Ambiguous,Missing Country,High,171500.0,Awaiting Data Enrichment,1
+ACC-101113,Meiriayas Manufacturing Pty Ltd,Australia,Manufacturing,SMB,ANZ,ANZ,,James Wilson,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-101122,Jeiser Materials K.K.,Japan,Manufacturing,SMB,Japan,Japan,,Yuki Tanaka,Unassigned,No Owner,Medium,5500.0,Awaiting Assignment,1
+ACC-101132,Borax Systems Pty Ltd,,Software,SMB,ANZ,Unknown,,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-101138,Saiceigei Materials Pvt Ltd,India,Manufacturing,SMB,India,India,,Arjun Mehta,Unassigned,No Owner,Medium,15000.0,Awaiting Assignment,1
+ACC-101139,Zewoyi Digital Services Board,,Government,SMB,India,Unknown,Arjun Mehta,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-101143,Zogiax Public Services Authority,South Korea,Government,Enterprise,Japan,Korea,Yuki Tanaka,Min-Jun Park,Incorrectly Routed,Territory Mismatch,High,,Ready to Reassign,1
+ACC-101145,Mouzux Care Pvt Ltd,India,Healthcare,Mid-Market,India,India,,Arjun Mehta,Unassigned,No Owner,Medium,,Awaiting Assignment,1
+ACC-101147,PT Rolail Biosciences,,Healthcare,SMB,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-101155,PT Roumei Transport,Indonesia,Logistics,SMB,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-101156,Riayowou Solutions JSC,,Professional Services,SMB,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,23000.0,Awaiting Data Enrichment,1
+ACC-101157,Fuvanul Consulting Pty Ltd,,Professional Services,Enterprise,ANZ,Unknown,James Wilson,,Ambiguous,Missing Country,High,,Awaiting Data Enrichment,1
+ACC-101195,Ceileite Materials,South Korea,Manufacturing,Mid-Market,Korea,Korea,Min-Jun Park,Min-Jun Park,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-101199,"Tiayu Retail Co., Ltd.",,Retail,Mid-Market,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,,Awaiting Data Enrichment,1
+ACC-101203,Zudotes Technologies JSC,,Software,SMB,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-101214,Siakeidian Assurance Pty Ltd,Australia,Financial Services,SMB,SEA,ANZ,Daniel Lim,James Wilson,Incorrectly Routed,Territory Mismatch,Medium,18500.0,Ready to Reassign,1
+ACC-101228,Beiniamos Technologies Inc.,Philippines,Software,Mid-Market,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Medium,27500.0,Awaiting Assignment,1
+ACC-101229,PT Reigeitax Stores,Indonesia,Retail,SMB,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Medium,15500.0,Awaiting Assignment,1
+ACC-101238,Doutaitux Technologies Pvt Ltd,India,Software,Mid-Market,SEA,India,Daniel Lim,Arjun Mehta,Incorrectly Routed,Territory Mismatch,Medium,57000.0,Ready to Reassign,1
+ACC-101257,Baisiax Materials JSC,,Manufacturing,SMB,ANZ,Unknown,James Wilson,,Ambiguous,Missing Country,Medium,12500.0,Awaiting Data Enrichment,1
+ACC-101258,"Deiteis Supply Chain Co., Ltd.",Thailand,Logistics,SMB,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Medium,4500.0,Awaiting Assignment,1
+ACC-101266,Panai Systems Ltd,New Zealand,Software,Mid-Market,ANZ,ANZ,,James Wilson,Unassigned,No Owner,Medium,48500.0,Awaiting Assignment,1
+ACC-101283,Haiwairain Logistics Pvt Ltd,India,Logistics,Mid-Market,India,India,,Arjun Mehta,Unassigned,No Owner,Medium,,Awaiting Assignment,1
+ACC-101294,Souliabix Supply Chain K.K.,,Logistics,Mid-Market,,Unknown,Yuki Tanaka,,Ambiguous,Missing Country,High,108500.0,Awaiting Data Enrichment,1
+ACC-101328,PT Jagiavous Manufacturing,Indonesia,Manufacturing,Mid-Market,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Medium,,Ready to Reassign,1
+ACC-101331,Ciabizian Biosciences Pte Ltd,,Healthcare,SMB,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-101335,Volos Labs Pvt Ltd,India,Software,SMB,,India,Arjun Mehta,Arjun Mehta,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-101344,Bosilir Capital Pvt Ltd,India,Financial Services,SMB,India,India,,Arjun Mehta,Unassigned,No Owner,Medium,9000.0,Awaiting Assignment,1
+ACC-101345,Soupes Advisory Pvt Ltd,India,Professional Services,Mid-Market,,India,Arjun Mehta,Arjun Mehta,Unassigned,No Territory,Medium,,Awaiting Assignment,1
+ACC-101347,Rulaboun Cloud K.K.,Japan,Software,Enterprise,Japan,Japan,,Yuki Tanaka,Unassigned,No Owner,High,,Awaiting Assignment,1
+ACC-101348,Couyei Materials Inc.,Philippines,Manufacturing,SMB,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-101354,Toujorel Capital K.K.,Japan,Financial Services,SMB,Japan,Japan,Yuki Tanaka,Yuki Tanaka,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-101361,JAITOFU LABS PVT LTD,India,Software,Mid-Market,India,India,Arjun Mehta,Arjun Mehta,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-101370,Fekiga Engineering Pty Ltd,,Manufacturing,Enterprise,,Unknown,James Wilson,,Ambiguous,Missing Country,High,427000.0,Awaiting Data Enrichment,1
+ACC-101397,Cilukian Logistics K.K.,Japan,Logistics,SMB,,Japan,Yuki Tanaka,Yuki Tanaka,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-101411,"Podaihol Materials Co., Ltd.",South Korea,Manufacturing,SMB,Korea,Korea,,Min-Jun Park,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-101429,Soumaimial Materials Pvt Ltd,Other,Manufacturing,SMB,India,Unknown,Arjun Mehta,,Ambiguous,Invalid Country,Low,,Awaiting Data Enrichment,1
+ACC-101440,Dunezon Mart Pvt Ltd,India,Retail,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,Low,,Awaiting Data Enrichment,1
+ACC-101443,Jajouzes Solutions Pte Ltd,APAC,Professional Services,Mid-Market,SEA,Unknown,Daniel Lim,,Ambiguous,Invalid Country,Medium,,Awaiting Data Enrichment,1
+ACC-101450,Febous Logistics Pty Ltd,Australia,Logistics,Enterprise,ANZ,ANZ,,James Wilson,Unassigned,No Owner,High,,Awaiting Assignment,1
+ACC-101477,Viborol Commerce K.K.,,Retail,SMB,,Unknown,Yuki Tanaka,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-101503,Favougos Materials,Thailand,Manufacturing,Mid-Market,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-101515,PT Rugoroul Industries,Indonesia,Manufacturing,SMB,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-101524,Riaziabas Solutions K.K.,,Professional Services,SMB,,Unknown,Yuki Tanaka,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-101530,Faiyirur Technologies Sdn Bhd,Malaysia,Software,Mid-Market,,SEA,Daniel Lim,Daniel Lim,Unassigned,No Territory,Medium,31500.0,Awaiting Assignment,1
+ACC-101532,Bidias Digital Pte Ltd,,Software,Mid-Market,,Unknown,Daniel Lim,,Ambiguous,Missing Country,High,301500.0,Awaiting Data Enrichment,1
+ACC-101542,Hodeihin Consulting Pte Ltd,Singapore,Professional Services,SMB,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Medium,8500.0,Awaiting Assignment,1
+ACC-101557,Gibeim Medical Pvt Ltd,India,Healthcare,SMB,,India,Arjun Mehta,Arjun Mehta,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-101564,Cucoux Capital Pty Ltd,,Financial Services,SMB,ANZ,Unknown,James Wilson,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-101575,Lailigian Partners K.K.,Japan,Professional Services,SMB,Japan,Japan,Yuki Tanaka,Yuki Tanaka,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-101576,Douviavex Advisory Private Limited,India,Professional Services,SMB,India,India,Arjun Mehta,Arjun Mehta,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-101578,PT Niter Commerce,Indonesia,Retail,Enterprise,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,High,,Ready to Reassign,1
+ACC-101585,Cenetum Mart Pte Ltd,,Retail,Enterprise,,Unknown,Daniel Lim,,Ambiguous,Missing Country,High,,Awaiting Data Enrichment,1
+ACC-101600,Louziawaim Financial K.K.,Japan,Financial Services,SMB,,Japan,Yuki Tanaka,Yuki Tanaka,Unassigned,No Territory,Medium,22000.0,Awaiting Assignment,1
+ACC-101604,Guluyam Solutions Pty. Ltd.,Australia,Professional Services,SMB,ANZ,ANZ,James Wilson,James Wilson,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-101629,Waivi Industries Pte Ltd,Singapore,Manufacturing,SMB,,SEA,Daniel Lim,Daniel Lim,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-101640,Reiziatu Capital Sdn Bhd,Malaysia,Financial Services,Mid-Market,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Medium,,Ready to Reassign,1
+ACC-101641,Yaihaiwix Consulting Sdn Bhd,,Professional Services,Mid-Market,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,,Awaiting Data Enrichment,1
+ACC-101642,Behar Systems Pty Ltd,Australia,Software,SMB,ANZ,ANZ,,James Wilson,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-101643,Vagou Industries Pty Ltd,Australia,Manufacturing,SMB,SEA,ANZ,Daniel Lim,James Wilson,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-101646,Naleidon Financial Pvt Ltd,India,Financial Services,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,Medium,19500.0,Awaiting Data Enrichment,1
+ACC-101653,Putelel Financial Pvt Ltd,India,Financial Services,SMB,SEA,India,Daniel Lim,Arjun Mehta,Incorrectly Routed,Territory Mismatch,Medium,5500.0,Ready to Reassign,1
+ACC-101661,Taisus Networks Ltd,,Telecommunications,SMB,,Unknown,James Wilson,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-101662,PT Wiagiayeis Systems,Indonesia,Software,SMB,APAC,SEA,Daniel Lim,Daniel Lim,Incorrectly Routed,Invalid Territory Value,Low,,Ready to Reassign,1
+ACC-101673,"Pouki Technologies Co., Ltd.",Thailand,Software,SMB,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-101679,Debaifa Medical Pvt Ltd,India,Healthcare,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,Low,,Awaiting Data Enrichment,1
+ACC-101684,Wuvouneim Manufacturing Pty Ltd,,Manufacturing,SMB,ANZ,Unknown,James Wilson,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-101695,Noupaijeir Advisory Pvt Ltd,India,Professional Services,SMB,,India,Arjun Mehta,Arjun Mehta,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-101700,"Bekoupor Medical Co., Ltd.",APAC,Healthcare,Enterprise,SEA,Unknown,Daniel Lim,,Ambiguous,Invalid Country,High,427000.0,Awaiting Data Enrichment,1
+ACC-101702,Veipair Manufacturing K.K.,Japan,Manufacturing,Mid-Market,Japan,Japan,,Yuki Tanaka,Unassigned,No Owner,Medium,12000.0,Awaiting Assignment,1
+ACC-101708,ROUVIN BIOSCIENCES PVT LTD,India,Healthcare,Mid-Market,India,India,Arjun Mehta,Arjun Mehta,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-101710,Pousom Labs K.K.,Japan,Software,Mid-Market,Korea,Japan,Min-Jun Park,Yuki Tanaka,Incorrectly Routed,Territory Mismatch,Medium,,Ready to Reassign,1
+ACC-101714,Jiagaiceir Commerce Inc.,Philippines,Retail,Unknown,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-101724,Wiakeis Retail Pty Ltd,Australia,Retail,SMB,SEA,ANZ,Daniel Lim,James Wilson,Incorrectly Routed,Territory Mismatch,Medium,39000.0,Ready to Reassign,1
+ACC-101730,Galesou Digital,Philippines,Software,Enterprise,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,High,,Pending Merge Review,1
+ACC-101753,Fifailor Supply Chain Pte Ltd,Singapore,Logistics,SMB,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-101779,"Jaiboux Engineering Co., Ltd.",South Korea,Manufacturing,Mid-Market,Korea,Korea,Min-Jun Park,Min-Jun Park,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-101780,Sawex Cloud Pvt Ltd,,Software,SMB,,Unknown,Arjun Mehta,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-101786,Refiam Telecom Pty Ltd,Australia,Telecommunications,SMB,SEA,ANZ,Daniel Lim,James Wilson,Incorrectly Routed,Territory Mismatch,Medium,27000.0,Ready to Reassign,1
+ACC-101797,Biacas Technologies K.K.,,Software,SMB,,Unknown,Yuki Tanaka,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-101807,Rimaisial Education Pty Ltd,Australia,Education,Enterprise,ANZ,ANZ,,James Wilson,Unassigned,No Owner,High,,Awaiting Assignment,1
+ACC-101812,"Rewemox Education Co., Ltd.",,Education,Mid-Market,Korea,Unknown,Min-Jun Park,,Ambiguous,Missing Country,Medium,82500.0,Awaiting Data Enrichment,1
+ACC-101821,Viarul Solutions Pvt Ltd,India,Professional Services,Mid-Market,India,India,Priya Sharma,Arjun Mehta,Incorrectly Routed,Owner Mismatch,Medium,,Ready to Reassign,1
+ACC-101823,Bisinu Mart Pvt Ltd,India,Retail,SMB,,India,Arjun Mehta,Arjun Mehta,Unassigned,No Territory,Medium,6000.0,Awaiting Assignment,1
+ACC-101828,Gairoubeim Capital Pty Ltd,,Financial Services,Mid-Market,,Unknown,James Wilson,,Ambiguous,Missing Country,Medium,,Awaiting Data Enrichment,1
+ACC-101833,Yecacax Partners Inc.,Philippines,Professional Services,SMB,,SEA,Daniel Lim,Daniel Lim,Unassigned,No Territory,Medium,13000.0,Awaiting Assignment,1
+ACC-101846,Kaiji Transport Pvt Ltd,India,Logistics,Mid-Market,SEA,India,Daniel Lim,Arjun Mehta,Incorrectly Routed,Territory Mismatch,Medium,,Ready to Reassign,1
+ACC-101847,PIAVEKEL LABS PTY LTD,Australia,Software,Enterprise,ANZ,ANZ,James Wilson,James Wilson,Manual Review,Duplicate Account,High,,Pending Merge Review,1
+ACC-101848,Dairour Retail Pte Ltd,,Retail,SMB,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-101890,BESAIR MART K.K.,Japan,Retail,SMB,Japan,Japan,Yuki Tanaka,Yuki Tanaka,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-101897,Youvekir Telecom K.K.,Japan,Telecommunications,SMB,Japan,Japan,Yuki Tanaka,Yuki Tanaka,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-101909,Lepais Materials Pvt Ltd,India,Manufacturing,SMB,,India,Arjun Mehta,Arjun Mehta,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-101922,Sigoudou Telecom K.K.,Japan,Telecommunications,SMB,Japan,Japan,Yuki Tanaka,Yuki Tanaka,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-101927,Johin Assurance K.K.,Japan,Financial Services,Mid-Market,,Japan,Yuki Tanaka,Yuki Tanaka,Unassigned,No Territory,High,178000.0,Awaiting Assignment,1
+ACC-101938,Molias Institute JSC,Vietnam,Education,SMB,,SEA,Daniel Lim,Daniel Lim,Unassigned,No Territory,Medium,10000.0,Awaiting Assignment,1
+ACC-101963,Piapoutir Industries K.K.,,Manufacturing,SMB,Japan,Unknown,Yuki Tanaka,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-101969,Couwal Commerce Pty Ltd,Australia,Retail,SMB,,ANZ,James Wilson,James Wilson,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-101979,Zosel Technologies JSC,Vietnam,Software,Mid-Market,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Medium,,Ready to Reassign,1
+ACC-102005,"Ceijes Medical Co., Ltd.",,Healthcare,SMB,Korea,Unknown,Min-Jun Park,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-102014,Wopail Consulting K.K.,Japan,Professional Services,SMB,Japan,Japan,,Yuki Tanaka,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-102015,Viabo Logistics Pvt Ltd,,Logistics,SMB,,Unknown,Arjun Mehta,,Ambiguous,Missing Country,Medium,16500.0,Awaiting Data Enrichment,1
+ACC-102017,Cavakiax Consulting K.K.,Japan,Professional Services,Mid-Market,Japan,Japan,,Yuki Tanaka,Unassigned,No Owner,Medium,,Awaiting Assignment,1
+ACC-102019,Vaideso Engineering Pte Ltd,,Manufacturing,Enterprise,,Unknown,Daniel Lim,,Ambiguous,Missing Country,High,,Awaiting Data Enrichment,1
+ACC-102032,Yegouzu Partners,Australia,Professional Services,SMB,ANZ,ANZ,James Wilson,James Wilson,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-102045,"Houladen Telecom Co., Ltd.",South Korea,Telecommunications,SMB,Korea,Korea,Min-Jun Park,Min-Jun Park,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-102082,PT Duhoubo Supply Chain,,Logistics,Mid-Market,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,33000.0,Awaiting Data Enrichment,1
+ACC-102102,Delefan Labs JSC,Vietnam,Software,SMB,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Medium,8000.0,Ready to Reassign,1
+ACC-102116,Nuhoufin Biosciences Pte Ltd,Singapore,Healthcare,SMB,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Medium,12500.0,Ready to Reassign,1
+ACC-102118,Gufekux Transport Pte Ltd,Singapore,Logistics,SMB,,SEA,Daniel Lim,Daniel Lim,Unassigned,No Territory,Medium,7500.0,Awaiting Assignment,1
+ACC-102133,Jeicouyo Education Pvt Ltd,India,Education,SMB,India,India,,Arjun Mehta,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-102150,Mitiyex Solutions Pty Ltd,Australia,Professional Services,SMB,ANZ,ANZ,,James Wilson,Unassigned,No Owner,Medium,13500.0,Awaiting Assignment,1
+ACC-102171,Fusoyian Holdings Pvt Ltd,,Financial Services,SMB,,Unknown,Arjun Mehta,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-102179,PT Kosoul Holdings,Indonesia,Financial Services,SMB,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Medium,14500.0,Ready to Reassign,1
+ACC-102249,"Maiviras Capital Co., Ltd.",South Korea,Financial Services,SMB,,Korea,Min-Jun Park,Min-Jun Park,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-102251,Tapaix Learning Sdn Bhd,,Education,Unknown,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,9500.0,Awaiting Data Enrichment,1
+ACC-102255,"Yeices Advisory Co., Ltd.",,Professional Services,SMB,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,11000.0,Awaiting Data Enrichment,1
+ACC-102257,Dupoutous Materials,Thailand,Manufacturing,Enterprise,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,High,,Pending Merge Review,1
+ACC-102258,"Yaidaija Networks Co., Ltd.",,Telecommunications,Mid-Market,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,58000.0,Awaiting Data Enrichment,1
+ACC-102269,Jaibax Capital K.K.,Japan,Financial Services,Mid-Market,Japan,Japan,,Yuki Tanaka,Unassigned,No Owner,Medium,61000.0,Awaiting Assignment,1
+ACC-102278,"Gitije Telecom Co., Ltd.",Thailand,Telecommunications,Mid-Market,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Medium,31500.0,Ready to Reassign,1
+ACC-102304,"Sijor Systems Co., Ltd.",South Korea,Software,Mid-Market,Korea,Korea,,Min-Jun Park,Unassigned,No Owner,Medium,,Awaiting Assignment,1
+ACC-102306,Kainiax Solutions Pvt Ltd,India,Professional Services,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,Low,,Awaiting Data Enrichment,1
+ACC-102308,Woumeinous Holdings Private Limited,India,Financial Services,SMB,India,India,Arjun Mehta,Arjun Mehta,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-102316,PT Yeirim Health,Indonesia,Healthcare,SMB,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Medium,9500.0,Awaiting Assignment,1
+ACC-102318,Miawu Digital Pvt Ltd,Asia Pacific,Software,Mid-Market,India,Unknown,Arjun Mehta,,Ambiguous,Invalid Country,Medium,,Awaiting Data Enrichment,1
+ACC-102324,Viker Telecom Pvt Ltd,India,Telecommunications,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,Medium,13500.0,Awaiting Data Enrichment,1
+ACC-102371,PT Jaiceijom Solutions,Indonesia,Professional Services,SMB,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Medium,17500.0,Awaiting Assignment,1
+ACC-102389,Poyawei Manufacturing Pvt Ltd,India,Manufacturing,Mid-Market,SEA,India,Daniel Lim,Arjun Mehta,Incorrectly Routed,Territory Mismatch,Medium,39000.0,Ready to Reassign,1
+ACC-102394,Paifagian Manufacturing Pvt Ltd,India,Manufacturing,SMB,India,India,,Arjun Mehta,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-102399,Yimam Systems Pty Ltd,,Software,Mid-Market,,Unknown,James Wilson,,Ambiguous,Missing Country,Medium,96500.0,Awaiting Data Enrichment,1
+ACC-102409,Cotiabain Medical K.K.,,Healthcare,Enterprise,Japan,Unknown,Yuki Tanaka,,Ambiguous,Missing Country,High,,Awaiting Data Enrichment,1
+ACC-102416,Giayeir Logistics Pty Ltd,Australia,Logistics,Mid-Market,ANZ,ANZ,James Wilson,James Wilson,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-102440,Palous Systems,Japan,Software,SMB,Japan,Japan,Yuki Tanaka,Yuki Tanaka,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-102441,Hiazazian Materials Sdn Bhd,Malaysia,Manufacturing,SMB,,SEA,Daniel Lim,Daniel Lim,Unassigned,No Territory,Medium,15000.0,Awaiting Assignment,1
+ACC-102449,Tatouyial Supply Chain Pty Ltd,,Logistics,SMB,,Unknown,James Wilson,,Ambiguous,Missing Country,Medium,38000.0,Awaiting Data Enrichment,1
+ACC-102452,Yialasen Networks Pvt Ltd,India,Telecommunications,Mid-Market,SEA,India,Daniel Lim,Arjun Mehta,Incorrectly Routed,Territory Mismatch,Medium,,Ready to Reassign,1
+ACC-102458,Wiapofoum Institute Pvt Ltd,,Education,SMB,India,Unknown,Arjun Mehta,,Ambiguous,Missing Country,Medium,12500.0,Awaiting Data Enrichment,1
+ACC-102461,Jahuti Health Inc.,Philippines,Healthcare,SMB,TBD-Unassigned,SEA,Daniel Lim,Daniel Lim,Incorrectly Routed,Invalid Territory Value,Low,,Ready to Reassign,1
+ACC-102465,Legasail Regional Council,Australia,Government,Mid-Market,,ANZ,James Wilson,James Wilson,Unassigned,No Territory,Medium,,Awaiting Assignment,1
+ACC-102468,Boukin Health Pty Ltd,Australia,Healthcare,Mid-Market,ANZ,ANZ,,James Wilson,Unassigned,No Owner,Medium,,Awaiting Assignment,1
+ACC-102499,Yofailei Digital Pty Ltd,Australia,Software,SMB,,ANZ,James Wilson,James Wilson,Unassigned,No Territory,Medium,23500.0,Awaiting Assignment,1
+ACC-102511,Hozox Labs Sdn Bhd,Malaysia,Software,SMB,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-102516,Beico Financial K.K.,,Financial Services,Mid-Market,,Unknown,Yuki Tanaka,,Ambiguous,Missing Country,Medium,,Awaiting Data Enrichment,1
+ACC-102524,Laizar Capital JSC,Vietnam,Financial Services,SMB,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Medium,13500.0,Awaiting Assignment,1
+ACC-102550,Vaiyiadeir Public Services Authority,Indonesia,Government,Enterprise,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,High,,Pending Merge Review,1
+ACC-102555,"Husokiar Freight Co., Ltd.",Thailand,Logistics,SMB,APAC,SEA,Daniel Lim,Daniel Lim,Incorrectly Routed,Invalid Territory Value,Medium,17000.0,Ready to Reassign,1
+ACC-102563,Zaicahos Institute Pvt Ltd,India,Education,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,Medium,15000.0,Awaiting Data Enrichment,1
+ACC-102568,Dougu Stores Pty Ltd,Australia,Retail,SMB,ANZ,ANZ,,James Wilson,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-102575,"Telaiwar Supply Chain Co., Ltd.",South Korea,Logistics,SMB,Korea,Korea,,Min-Jun Park,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-102586,Haibax Institute K.K.,,Education,Mid-Market,,Unknown,Yuki Tanaka,,Ambiguous,Missing Country,High,166000.0,Awaiting Data Enrichment,1
+ACC-102593,Beininour Digital K.K.,Japan,Software,Enterprise,Japan,Japan,Yuki Tanaka,Yuki Tanaka,Manual Review,Duplicate Account,High,,Pending Merge Review,1
+ACC-102596,Yoteiyus Advisory Pty Ltd,,Professional Services,SMB,ANZ,Unknown,James Wilson,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-102601,Waikai Capital Ltd,New Zealand,Financial Services,SMB,,ANZ,James Wilson,James Wilson,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-102610,Diajisous Materials Pte Ltd,,Manufacturing,SMB,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,29000.0,Awaiting Data Enrichment,1
+ACC-102613,"Leitohair Partners Co., Ltd.",South Korea,Professional Services,SMB,Korea,Korea,,Min-Jun Park,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-102614,Dougar Partners Sdn Bhd,Malaysia,Professional Services,SMB,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-102615,Feiyun Capital Pvt Ltd,India,Financial Services,SMB,,India,Arjun Mehta,Arjun Mehta,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-102621,Zeiduriam Networks K.K.,,Telecommunications,Mid-Market,,Unknown,Yuki Tanaka,,Ambiguous,Missing Country,Medium,90000.0,Awaiting Data Enrichment,1
+ACC-102624,Naiveis Manufacturing Pvt Ltd,India,Manufacturing,Enterprise,,India,Priya Sharma,Priya Sharma,Unassigned,No Territory,High,,Awaiting Assignment,1
+ACC-102626,PEIWUNAN LABS PTE LTD,Singapore,Software,SMB,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-102636,Ciabizian Biosciences Pte Ltd,,Healthcare,SMB,SEA,Unknown,Daniel Lim,,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-102638,Baizour Partners Inc.,Philippines,Professional Services,Mid-Market,ROW,SEA,Daniel Lim,Daniel Lim,Incorrectly Routed,Invalid Territory Value,Medium,65500.0,Ready to Reassign,1
+ACC-102650,Sousou Cloud Pty Ltd,,Software,SMB,,Unknown,James Wilson,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-102658,Pikenail Holdings Sdn Bhd,Malaysia,Financial Services,Mid-Market,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-102660,Siviam Cloud Pvt Ltd,India,Software,SMB,India,India,,Arjun Mehta,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-102670,Senein Industries Pty Ltd,Australia,Manufacturing,Mid-Market,ANZ,ANZ,James Wilson,James Wilson,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-102675,Manas Telecom Sdn Bhd,Malaysia,Telecommunications,SMB,,SEA,Daniel Lim,Daniel Lim,Unassigned,No Territory,Medium,30500.0,Awaiting Assignment,1
+ACC-102705,Sekoco Industries Pty Ltd,Australia,Manufacturing,SMB,ANZ,ANZ,,James Wilson,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-102708,Sediadel Systems Pvt Ltd,India,Software,SMB,India,India,Arjun Mehta,Arjun Mehta,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-102714,Rouceix Partners Ltd,New Zealand,Professional Services,SMB,SEA,ANZ,Daniel Lim,James Wilson,Incorrectly Routed,Territory Mismatch,Medium,45500.0,Ready to Reassign,1
+ACC-102721,Kidubux Assurance Pvt Ltd,India,Financial Services,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,Medium,14500.0,Awaiting Data Enrichment,1
+ACC-102734,Boujelaix Technologies Pvt Ltd,India,Software,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,Medium,7000.0,Awaiting Data Enrichment,1
+ACC-102767,Wudaivox Regional Council,Asia Pacific,Government,Mid-Market,SEA,Unknown,Daniel Lim,,Ambiguous,Invalid Country,Medium,,Awaiting Data Enrichment,1
+ACC-102776,Yaijiwir Systems Pty Ltd,,Software,Mid-Market,ANZ,Unknown,James Wilson,,Ambiguous,Missing Country,Medium,,Awaiting Data Enrichment,1
+ACC-102787,Lobou Capital Pvt Ltd,,Financial Services,SMB,,Unknown,Arjun Mehta,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-102788,"Rouyegai Manufacturing Co., Ltd.",South Korea,Manufacturing,SMB,Japan,Korea,Yuki Tanaka,Min-Jun Park,Incorrectly Routed,Territory Mismatch,Medium,12500.0,Ready to Reassign,1
+ACC-102797,Jougujei Assurance Pty Ltd,Australia,Financial Services,SMB,ANZ,ANZ,James Wilson,James Wilson,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-102805,PT Zipux Solutions,,Professional Services,SMB,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,14500.0,Awaiting Data Enrichment,1
+ACC-102811,Neiboudiax Advisory Ltd,New Zealand,Professional Services,Mid-Market,ANZ,ANZ,,James Wilson,Unassigned,No Owner,Medium,45500.0,Awaiting Assignment,1
+ACC-102816,Fipaizan Cloud Pty Ltd,,Software,SMB,,Unknown,James Wilson,,Ambiguous,Missing Country,Medium,7500.0,Awaiting Data Enrichment,1
+ACC-102818,Gobeijeis Digital Services Board,,Government,SMB,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-102821,Reigarex Health Inc.,,Healthcare,SMB,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-102838,"JIAVAKIA CAPITAL CO., LTD.",South Korea,Financial Services,SMB,Korea,Korea,Min-Jun Park,Min-Jun Park,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-102849,Nores Engineering Pty. Ltd.,Australia,Manufacturing,Unknown,ANZ,ANZ,James Wilson,James Wilson,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-102855,Waiwubir Materials JSC,,Manufacturing,Mid-Market,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,51500.0,Awaiting Data Enrichment,1
+ACC-102870,Hacir Advisory Pty Ltd,Australia,Professional Services,SMB,TBD-Unassigned,ANZ,James Wilson,James Wilson,Incorrectly Routed,Invalid Territory Value,Medium,18500.0,Ready to Reassign,1
+ACC-102886,Cozemour Public Services Authority,Japan,Government,SMB,Japan,Japan,Yuki Tanaka,Yuki Tanaka,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-102918,Teibeivos Digital Pvt Ltd,,Software,Mid-Market,India,Unknown,Arjun Mehta,,Ambiguous,Missing Country,Medium,,Awaiting Data Enrichment,1
+ACC-102932,Fivum Holdings Pte Ltd,Singapore,Financial Services,SMB,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-102933,"Soupohou Capital Co., Ltd.",South Korea,Financial Services,SMB,Korea,Korea,,Min-Jun Park,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-102934,Meyikes Assurance Sdn Bhd,,Financial Services,Mid-Market,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,,Awaiting Data Enrichment,1
+ACC-102951,Seibaira Medical Pvt Ltd,India,Healthcare,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,High,153500.0,Awaiting Data Enrichment,1
+ACC-102965,Woufur Stores Pvt Ltd,India,Retail,SMB,India,India,,Arjun Mehta,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-102986,Silin Capital Inc.,Philippines,Financial Services,SMB,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-102990,"Gaipox Labs Co., Ltd.",,Software,SMB,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-103001,Jokou Partners K.K.,,Professional Services,SMB,Japan,Unknown,Yuki Tanaka,,Ambiguous,Missing Country,Medium,20500.0,Awaiting Data Enrichment,1
+ACC-103003,Beideix Holdings Pvt Ltd,India,Financial Services,Enterprise,India,India,Arjun Mehta,Priya Sharma,Incorrectly Routed,Owner Mismatch,High,623500.0,Ready to Reassign,1
+ACC-103005,Wiajuweis Partners Inc.,,Professional Services,SMB,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-103009,Zaimoux Institute Pty Ltd,,Education,SMB,ANZ,Unknown,James Wilson,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-103019,Mouvem Advisory Pvt Ltd,India,Professional Services,SMB,India,India,,Arjun Mehta,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-103029,Zouvias Financial K.K.,,Financial Services,SMB,Japan,Unknown,Yuki Tanaka,,Ambiguous,Missing Country,Medium,9500.0,Awaiting Data Enrichment,1
+ACC-103044,Duwum Advisory Pvt Ltd,,Professional Services,SMB,,Unknown,Arjun Mehta,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-103056,Lefifix Mart Ltd,New Zealand,Retail,Enterprise,SEA,ANZ,Daniel Lim,James Wilson,Incorrectly Routed,Territory Mismatch,High,,Ready to Reassign,1
+ACC-103068,Rouro Freight Pte Ltd,,Logistics,Mid-Market,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,,Awaiting Data Enrichment,1
+ACC-103073,Pofiayei Medical,South Korea,Healthcare,SMB,Korea,Korea,Min-Jun Park,Min-Jun Park,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-103102,Biamiadin Consulting Pte Ltd,Singapore,Professional Services,SMB,TBD-Unassigned,SEA,Daniel Lim,Daniel Lim,Incorrectly Routed,Invalid Territory Value,Low,,Ready to Reassign,1
+ACC-103109,Maidulaix Financial,,Financial Services,SMB,,Unknown,Arjun Mehta,,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-103120,Wevumei Commerce K.K.,,Retail,Mid-Market,Japan,Unknown,Yuki Tanaka,,Ambiguous,Missing Country,Medium,,Awaiting Data Enrichment,1
+ACC-103139,Jairim Learning Sdn Bhd,Malaysia,Education,Unknown,SEA,SEA,,Daniel Lim,Unassigned,No Owner,High,135000.0,Awaiting Assignment,1
+ACC-103141,Figeir Systems Pty Ltd,Australia,Software,Enterprise,SEA,ANZ,Daniel Lim,James Wilson,Incorrectly Routed,Territory Mismatch,High,178500.0,Ready to Reassign,1
+ACC-103143,Ceihel Medical Pvt Ltd,India,Healthcare,Unknown,India,India,Priya Sharma,,Manual Review,Missing Employee Count,Low,,Awaiting Data Enrichment,1
+ACC-103178,Rougidam Financial Pvt Ltd,India,Financial Services,SMB,,India,Arjun Mehta,Arjun Mehta,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-103180,Kaseivu Financial Ltd,,Financial Services,SMB,ANZ,Unknown,James Wilson,,Ambiguous,Missing Country,Medium,35000.0,Awaiting Data Enrichment,1
+ACC-103195,Reicouyou Academy Pte Ltd,Singapore,Education,SMB,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-103211,Bailour Digital Pvt Ltd,India,Software,SMB,ROW,India,Arjun Mehta,Arjun Mehta,Incorrectly Routed,Invalid Territory Value,Low,,Ready to Reassign,1
+ACC-103218,Coubasiar Financial Pvt Ltd,India,Financial Services,Mid-Market,India,India,Priya Sharma,Arjun Mehta,Incorrectly Routed,Owner Mismatch,Medium,26500.0,Ready to Reassign,1
+ACC-103234,Touwo Systems JSC,Vietnam,Software,SMB,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-103243,Vemoyair Materials Pvt Ltd,India,Manufacturing,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,Low,,Awaiting Data Enrichment,1
+ACC-103251,"Biakom Systems Co., Ltd.",,Software,SMB,,Unknown,Min-Jun Park,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-103280,PT Doupowu Assurance,,Financial Services,Mid-Market,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,30500.0,Awaiting Data Enrichment,1
+ACC-103284,Ziavimin Partners Pvt Ltd,India,Professional Services,Mid-Market,SEA,India,Daniel Lim,Arjun Mehta,Incorrectly Routed,Territory Mismatch,Medium,,Ready to Reassign,1
+ACC-103292,Wuyounour Consulting Pty Ltd,,Professional Services,SMB,ANZ,Unknown,James Wilson,,Ambiguous,Missing Country,Medium,20500.0,Awaiting Data Enrichment,1
+ACC-103298,Waigur Labs JSC,Vietnam,Software,SMB,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Medium,17500.0,Awaiting Assignment,1
+ACC-103304,Hutahom Industries,Australia,Manufacturing,Mid-Market,ANZ,ANZ,James Wilson,James Wilson,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-103312,Tezaim Biosciences Pte Ltd,,Healthcare,SMB,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-103324,Kaifan Systems Pvt Ltd,India,Software,Enterprise,India,India,,Priya Sharma,Unassigned,No Owner,High,,Awaiting Assignment,1
+ACC-103332,Losis Communications Ltd,New Zealand,Telecommunications,Mid-Market,SEA,ANZ,Daniel Lim,James Wilson,Incorrectly Routed,Territory Mismatch,Medium,64000.0,Ready to Reassign,1
+ACC-103346,Duvokoum Financial Pte Ltd,Singapore,Financial Services,Enterprise,,SEA,Daniel Lim,Daniel Lim,Unassigned,No Territory,High,308500.0,Awaiting Assignment,1
+ACC-103356,PT Tiayoujin Transport,Indonesia,Logistics,Mid-Market,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Medium,70000.0,Awaiting Assignment,1
+ACC-103358,Peirohex Assurance Sdn Bhd,Malaysia,Financial Services,SMB,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Medium,21000.0,Ready to Reassign,1
+ACC-103397,Bineiyias Biosciences Pvt Ltd,India,Healthcare,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,Low,,Awaiting Data Enrichment,1
+ACC-103403,Louseil Health Pte Ltd,Singapore,Healthcare,SMB,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-103405,Fucaidiax Solutions Pvt Ltd,India,Professional Services,SMB,SEA,India,Daniel Lim,Arjun Mehta,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-103407,Vodom Industries K.K.,Japan,Manufacturing,SMB,,Japan,Yuki Tanaka,Yuki Tanaka,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-103425,"Maibol Academy Co., Ltd.",Thailand,Education,SMB,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-103432,Ciyujeis Consulting Sdn Bhd,Malaysia,Professional Services,SMB,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Medium,15500.0,Awaiting Assignment,1
+ACC-103442,Douziakair Holdings Pvt Ltd,India,Financial Services,SMB,,India,Arjun Mehta,Arjun Mehta,Unassigned,No Territory,Medium,13500.0,Awaiting Assignment,1
+ACC-103449,Gojafais Holdings,India,Financial Services,SMB,India,India,Arjun Mehta,Arjun Mehta,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-103453,PT Loubiax Solutions,Indonesia,Professional Services,Enterprise,SEA,SEA,,Daniel Lim,Unassigned,No Owner,High,,Awaiting Assignment,1
+ACC-103468,Kiacairi Industries JSC,Vietnam,Manufacturing,Mid-Market,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Medium,,Awaiting Assignment,1
+ACC-103475,Caibiter Commerce Pvt Ltd,India,Retail,SMB,India,India,,Arjun Mehta,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-103476,Teidas Regional Council,India,Government,SMB,,India,Arjun Mehta,Arjun Mehta,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-103478,Sozei Manufacturing K.K.,,Manufacturing,SMB,,Unknown,Yuki Tanaka,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-103480,Cayiax Health JSC,Vietnam,Healthcare,SMB,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-103486,"Vekijul Engineering Co., Ltd.",Thailand,Manufacturing,SMB,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-103491,PT Neizaipux Retail,,Retail,SMB,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-103514,Ruyeipeir Advisory,Australia,Professional Services,SMB,ANZ,ANZ,James Wilson,James Wilson,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-103518,"Kameim Health Co., Ltd.",,Healthcare,Mid-Market,Korea,Unknown,Min-Jun Park,,Ambiguous,Missing Country,Medium,54000.0,Awaiting Data Enrichment,1
+ACC-103523,Rialojoun Biosciences,Thailand,Healthcare,SMB,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-103526,Haicai Transport Pvt Ltd,,Logistics,Mid-Market,,Unknown,Arjun Mehta,,Ambiguous,Missing Country,Medium,30000.0,Awaiting Data Enrichment,1
+ACC-103530,Sejewas Institute Pty Ltd,,Education,Mid-Market,ANZ,Unknown,James Wilson,,Ambiguous,Missing Country,Medium,,Awaiting Data Enrichment,1
+ACC-103532,"Yuyol Systems Co., Ltd.",,Software,SMB,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-103541,Secel Education Inc.,Philippines,Education,SMB,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-103545,Zuvouyix Labs Pvt Ltd,,Software,Mid-Market,India,Unknown,Arjun Mehta,,Ambiguous,Missing Country,Medium,,Awaiting Data Enrichment,1
+ACC-103548,Douvias Regional Council,Vietnam,Government,SMB,ANZ,SEA,James Wilson,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-103553,Wizias Solutions Inc.,Philippines,Professional Services,SMB,,SEA,Daniel Lim,Daniel Lim,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-103556,Rufon Holdings JSC,,Financial Services,Mid-Market,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,,Awaiting Data Enrichment,1
+ACC-103560,Pirazeim Partners K.K.,Japan,Professional Services,SMB,Japan,Japan,,Yuki Tanaka,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-103594,Kigam Assurance Pty Ltd,Australia,Financial Services,SMB,ANZ,ANZ,,James Wilson,Unassigned,No Owner,Medium,14500.0,Awaiting Assignment,1
+ACC-103597,Kousom Supply Chain JSC,,Logistics,Mid-Market,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,,Awaiting Data Enrichment,1
+ACC-103601,PT Gaizi Holdings,Indonesia,Financial Services,SMB,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-103603,PT Vorourax Medical,Indonesia,Healthcare,Mid-Market,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Medium,52000.0,Awaiting Assignment,1
+ACC-103605,Zaiko Materials K.K.,Japan,Manufacturing,Mid-Market,,Japan,Yuki Tanaka,Yuki Tanaka,Unassigned,No Territory,Medium,,Awaiting Assignment,1
+ACC-103613,Duwia Manufacturing Pty Ltd,,Manufacturing,SMB,ANZ,Unknown,James Wilson,,Ambiguous,Missing Country,Medium,29500.0,Awaiting Data Enrichment,1
+ACC-103623,Heigex Labs Pte Ltd,,Software,SMB,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,23000.0,Awaiting Data Enrichment,1
+ACC-103624,Youvaifour Freight,Japan,Logistics,SMB,Japan,Japan,Yuki Tanaka,Yuki Tanaka,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-103633,Wiase Retail Pvt Ltd,India,Retail,SMB,SEA,India,Daniel Lim,Arjun Mehta,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-103635,Sezusou Stores Pty Ltd,Australia,Retail,SMB,,ANZ,James Wilson,James Wilson,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-103640,Navucu Industries Pte Ltd,Singapore,Manufacturing,Mid-Market,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Medium,,Awaiting Assignment,1
+ACC-103645,"Pepacer Systems Co., Ltd.",South Korea,Software,SMB,Korea,Korea,,Min-Jun Park,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-103652,"Covous Learning Co., Ltd.",,Education,Mid-Market,Korea,Unknown,Min-Jun Park,,Ambiguous,Missing Country,Medium,8500.0,Awaiting Data Enrichment,1
+ACC-103660,PT Bawos Stores,Indonesia,Retail,SMB,,SEA,Daniel Lim,Daniel Lim,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-103665,Feroul Mart Sdn Bhd,Malaysia,Retail,Mid-Market,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Medium,,Ready to Reassign,1
+ACC-103668,Nodailiax Advisory Sdn Bhd,,Professional Services,Mid-Market,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,58000.0,Awaiting Data Enrichment,1
+ACC-103693,Coufim Digital Pty Ltd,Australia,Software,SMB,ANZ,ANZ,,James Wilson,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-103696,Keineis Mart K.K.,Japan,Retail,Mid-Market,,Japan,Yuki Tanaka,Yuki Tanaka,Unassigned,No Territory,Medium,,Awaiting Assignment,1
+ACC-103702,Teiyiafom Industries Sdn Bhd,Malaysia,Manufacturing,SMB,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-103706,Ceimous Biosciences Pty Ltd,,Healthcare,SMB,ANZ,Unknown,James Wilson,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-103710,Zaiyiyiam Labs Pty Ltd,Australia,Software,SMB,,ANZ,James Wilson,James Wilson,Unassigned,No Territory,Medium,10500.0,Awaiting Assignment,1
+ACC-103717,Deikica Learning Pte Ltd,Singapore,Education,SMB,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-103728,Raimoux Consulting Pte Ltd,,Professional Services,SMB,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,13000.0,Awaiting Data Enrichment,1
+ACC-103741,Wepus Manufacturing Pvt Ltd,India,Manufacturing,SMB,India,India,,Arjun Mehta,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-103750,Seyezir Partners Pvt Ltd,India,Professional Services,SMB,India,India,,Arjun Mehta,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-103755,Behai Materials Pte Ltd,Singapore,Manufacturing,SMB,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-103818,Tiapafel Systems Pvt Ltd,India,Software,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,Medium,4500.0,Awaiting Data Enrichment,1
+ACC-103820,Roumeibein Systems Pvt Ltd,India,Software,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,Low,,Awaiting Data Enrichment,1
+ACC-103823,Foume Retail JSC,,Retail,Unknown,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-103827,Yeidolem Communications Pvt Ltd,,Telecommunications,Mid-Market,India,Unknown,Arjun Mehta,,Ambiguous,Missing Country,Medium,,Awaiting Data Enrichment,1
+ACC-103844,Fiaroux Transport Pty Ltd,Australia,Logistics,Mid-Market,ANZ,ANZ,,James Wilson,Unassigned,No Owner,Medium,63500.0,Awaiting Assignment,1
+ACC-103849,"Bibei Solutions Co., Ltd.",Thailand,Professional Services,SMB,TBD-Unassigned,SEA,Daniel Lim,Daniel Lim,Incorrectly Routed,Invalid Territory Value,Low,,Ready to Reassign,1
+ACC-103851,Jiyeis Mart,Japan,Retail,Mid-Market,Japan,Japan,Yuki Tanaka,Yuki Tanaka,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-103867,Citun Care Pty Ltd,Australia,Healthcare,Enterprise,ANZ,ANZ,James Wilson,James Wilson,Manual Review,Duplicate Account,High,,Pending Merge Review,1
+ACC-103871,Jerex Cloud Ltd,,Software,SMB,,Unknown,James Wilson,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-103873,Zimiazai Financial Ltd,New Zealand,Financial Services,Mid-Market,ANZ,ANZ,,James Wilson,Unassigned,No Owner,Medium,,Awaiting Assignment,1
+ACC-103898,Ziyaiyair Networks Inc.,,Telecommunications,Mid-Market,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,,Awaiting Data Enrichment,1
+ACC-103901,Laibeitou Care Pty Ltd,,Healthcare,SMB,ANZ,Unknown,James Wilson,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-103912,Yoditan Medical Pvt Ltd,India,Healthcare,SMB,,India,Arjun Mehta,Arjun Mehta,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-103928,PT Lojux Biosciences,Indonesia,Healthcare,SMB,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-103931,WAILON CONSULTING K.K.,Japan,Professional Services,Mid-Market,Japan,Japan,Yuki Tanaka,Yuki Tanaka,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-103934,Moudux Holdings Pty Ltd,Australia,Financial Services,SMB,SEA,ANZ,Daniel Lim,James Wilson,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-103936,Lanan Academy JSC,Vietnam,Education,Mid-Market,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-103937,Raiheim Regional Council,Australia,Government,SMB,SEA,ANZ,Daniel Lim,James Wilson,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-103951,Viakaim Logistics Sdn Bhd,,Logistics,Mid-Market,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,33000.0,Awaiting Data Enrichment,1
+ACC-103967,SAWIMES RETAIL LTD,APAC,Retail,SMB,ANZ,Unknown,James Wilson,,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-103970,Tugiasou Industries Pte Ltd,Singapore,Manufacturing,SMB,ROW,SEA,,Daniel Lim,Unassigned,No Owner,Medium,6500.0,Awaiting Assignment,1
+ACC-103971,"Koutuhail Advisory Co., Ltd.",Thailand,Professional Services,SMB,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-103980,Jujou Biosciences Sdn Bhd,Malaysia,Healthcare,Mid-Market,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-103993,Nusem Biosciences Pvt Ltd,India,Healthcare,SMB,India,India,,Arjun Mehta,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-103997,Verekia Systems K.K.,Japan,Software,Mid-Market,Japan,Japan,,Yuki Tanaka,Unassigned,No Owner,Medium,,Awaiting Assignment,1
+ACC-104000,PT Ducai Cloud,,Software,Enterprise,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,High,,Awaiting Data Enrichment,1
+ACC-104027,Memacais Digital Pvt Ltd,,Software,SMB,,Unknown,Arjun Mehta,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-104035,Zeigaimiax Manufacturing K.K.,,Manufacturing,Mid-Market,,Unknown,Yuki Tanaka,,Ambiguous,Missing Country,High,117000.0,Awaiting Data Enrichment,1
+ACC-104049,Gidei Retail Inc.,Philippines,Retail,Mid-Market,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,High,156500.0,Ready to Reassign,1
+ACC-104053,Vegotin Academy Pvt Ltd,India,Education,Mid-Market,India,India,Priya Sharma,Arjun Mehta,Incorrectly Routed,Owner Mismatch,Medium,26000.0,Ready to Reassign,1
+ACC-104060,DAIGAZA HOLDINGS PTY LTD,Australia,Financial Services,SMB,ANZ,ANZ,James Wilson,James Wilson,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-104065,Neidein Supply Chain K.K.,Japan,Logistics,Enterprise,Japan,Japan,Yuki Tanaka,Yuki Tanaka,Manual Review,Duplicate Account,High,,Pending Merge Review,1
+ACC-104067,Yikalou Partners Private Limited,India,Professional Services,SMB,India,India,Arjun Mehta,Arjun Mehta,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-104069,Haiseikias Technologies Pvt Ltd,India,Software,SMB,,India,Arjun Mehta,Arjun Mehta,Unassigned,No Territory,Medium,11000.0,Awaiting Assignment,1
+ACC-104074,Saibuheir Industries Sdn Bhd,,Manufacturing,Mid-Market,,Unknown,Daniel Lim,,Ambiguous,Missing Country,High,155000.0,Awaiting Data Enrichment,1
+ACC-104091,Zumaiven Labs,Australia,Software,Mid-Market,ANZ,ANZ,James Wilson,James Wilson,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-104105,"Mavomou Digital Co., Ltd.",Thailand,Software,SMB,SEA,SEA,,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-104120,PT Ralus Systems,,Software,Mid-Market,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,,Awaiting Data Enrichment,1
+ACC-104126,"Seiriam Materials Co., Ltd.",South Korea,Manufacturing,SMB,ROW,Korea,Min-Jun Park,Min-Jun Park,Incorrectly Routed,Invalid Territory Value,Low,,Ready to Reassign,1
+ACC-104137,Joumohis Networks K.K.,Japan,Telecommunications,Enterprise,Japan,Japan,Yuki Tanaka,Yuki Tanaka,Manual Review,Duplicate Account,High,,Pending Merge Review,1
+ACC-104150,"Koutin Biosciences Co., Ltd.",South Korea,Healthcare,SMB,Japan,Korea,Yuki Tanaka,Min-Jun Park,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-104153,Zoures Industries Sdn Bhd,,Manufacturing,SMB,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,13500.0,Awaiting Data Enrichment,1
+ACC-104158,Vunas Mart,India,Retail,SMB,India,India,Arjun Mehta,Arjun Mehta,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-104161,Socufe Institute K.K.,Japan,Education,Mid-Market,Japan,Japan,,Yuki Tanaka,Unassigned,No Owner,Medium,,Awaiting Assignment,1
+ACC-104168,Dailitoun Manufacturing K.K.,Japan,Manufacturing,SMB,,Japan,Yuki Tanaka,Yuki Tanaka,Unassigned,No Territory,Medium,10500.0,Awaiting Assignment,1
+ACC-104208,Zocetaix Technologies K.K.,Japan,Software,SMB,Japan,Japan,,Yuki Tanaka,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-104212,Jonim Commerce K.K.,,Retail,SMB,,Unknown,Yuki Tanaka,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-104214,Kiviayeix Health Pvt Ltd,Asia Pacific,Healthcare,SMB,India,Unknown,Arjun Mehta,,Ambiguous,Invalid Country,Low,,Awaiting Data Enrichment,1
+ACC-104242,PT Gikiax Institute,Other,Education,Mid-Market,SEA,Unknown,Daniel Lim,,Ambiguous,Invalid Country,Medium,32000.0,Awaiting Data Enrichment,1
+ACC-104244,Meizeigo Assurance Pty Ltd,Australia,Financial Services,SMB,,ANZ,James Wilson,James Wilson,Unassigned,No Territory,Medium,14000.0,Awaiting Assignment,1
+ACC-104248,Dulusei Logistics Inc.,,Logistics,SMB,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-104249,Kiazai Capital Pvt Ltd,,Financial Services,Enterprise,India,Unknown,Priya Sharma,,Ambiguous,Missing Country,High,,Awaiting Data Enrichment,1
+ACC-104278,Cakoun Advisory K.K.,Other,Professional Services,SMB,Japan,Unknown,Yuki Tanaka,,Ambiguous,Invalid Country,Medium,16000.0,Awaiting Data Enrichment,1
+ACC-104296,PT Dajal Health,Indonesia,Healthcare,SMB,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-104319,Jabor Transport JSC,Vietnam,Logistics,SMB,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-104321,Teijia Advisory JSC,Vietnam,Professional Services,Mid-Market,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Medium,,Ready to Reassign,1
+ACC-104333,Yiwain Cloud Pvt Ltd,India,Software,Mid-Market,,India,Arjun Mehta,Arjun Mehta,Unassigned,No Territory,Medium,,Awaiting Assignment,1
+ACC-104364,Ludair Consulting Pty Ltd,Australia,Professional Services,SMB,ANZ,ANZ,,James Wilson,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-104381,Souhusoum Learning Inc.,Other,Education,SMB,SEA,Unknown,Daniel Lim,,Ambiguous,Invalid Country,Low,,Awaiting Data Enrichment,1
+ACC-104384,Veipair Manufacturing,Japan,Manufacturing,Mid-Market,Japan,Japan,Yuki Tanaka,Yuki Tanaka,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-104387,Meidiaveil Systems Pty Ltd,,Software,SMB,,Unknown,James Wilson,,Ambiguous,Missing Country,Medium,20000.0,Awaiting Data Enrichment,1
+ACC-104389,Tiawageir Labs Pvt Ltd,India,Software,SMB,SEA,India,Daniel Lim,Arjun Mehta,Incorrectly Routed,Territory Mismatch,Medium,14500.0,Ready to Reassign,1
+ACC-104393,"Rimux Networks Co., Ltd.",Asia Pacific,Telecommunications,Mid-Market,Korea,Unknown,Min-Jun Park,,Ambiguous,Invalid Country,Medium,21500.0,Awaiting Data Enrichment,1
+ACC-104394,Siyais Biosciences JSC,Vietnam,Healthcare,Mid-Market,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Medium,,Ready to Reassign,1
+ACC-104399,PT Sihejen Freight,Indonesia,Logistics,SMB,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-104403,"SOUPOHOU CAPITAL CO., LTD.",South Korea,Financial Services,SMB,Korea,Korea,Min-Jun Park,Min-Jun Park,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-104426,PT Bejogei Academy,Indonesia,Education,SMB,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-104450,Paijei Manufacturing Pvt Ltd,India,Manufacturing,Mid-Market,SEA,India,Daniel Lim,Arjun Mehta,Incorrectly Routed,Territory Mismatch,Medium,40500.0,Ready to Reassign,1
+ACC-104477,"Hiasefai Advisory Co., Ltd.",,Professional Services,Mid-Market,,Unknown,,,Ambiguous,Missing Country,Medium,,Awaiting Data Enrichment,1
+ACC-104484,Pijaix Learning Pvt Ltd,India,Education,SMB,India,India,,Arjun Mehta,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-104490,Cegum Transport K.K.,Japan,Logistics,SMB,ROW,Japan,Yuki Tanaka,Yuki Tanaka,Incorrectly Routed,Invalid Territory Value,Low,,Ready to Reassign,1
+ACC-104506,Saifebaim Telecom K.K.,,Telecommunications,SMB,,Unknown,Yuki Tanaka,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-104515,"Vevouvax Manufacturing Co., Ltd.",South Korea,Manufacturing,SMB,ROW,Korea,Min-Jun Park,Min-Jun Park,Incorrectly Routed,Invalid Territory Value,Low,,Ready to Reassign,1
+ACC-104526,Ruyeil Freight Pty. Ltd.,Australia,Logistics,SMB,ANZ,ANZ,James Wilson,James Wilson,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-104540,Giadis Materials Pvt Ltd,APAC,Manufacturing,Mid-Market,India,Unknown,Arjun Mehta,,Ambiguous,Invalid Country,Medium,,Awaiting Data Enrichment,1
+ACC-104552,PT Zipux Solutions,Indonesia,Professional Services,SMB,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-104556,Mujais Retail Pvt Ltd,,Retail,SMB,,Unknown,Arjun Mehta,,Ambiguous,Missing Country,Medium,6500.0,Awaiting Data Enrichment,1
+ACC-104559,Deihex Solutions Pvt Ltd,India,Professional Services,SMB,,India,Arjun Mehta,Arjun Mehta,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-104592,Yeibutus Health Pvt Ltd,India,Healthcare,SMB,India,India,,Arjun Mehta,Unassigned,No Owner,Medium,11500.0,Awaiting Assignment,1
+ACC-104593,"Yeigian Cloud Co., Ltd.",South Korea,Software,SMB,Japan,Korea,Yuki Tanaka,Min-Jun Park,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-104596,Mujem Logistics Pvt Ltd,India,Logistics,SMB,India,India,,Arjun Mehta,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-104604,JOUSU HOLDINGS PTY LTD,Australia,Financial Services,SMB,ANZ,ANZ,James Wilson,James Wilson,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-104610,Toliahus Materials Pvt Ltd,,Manufacturing,SMB,India,Unknown,Arjun Mehta,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-104628,Wailon Consulting K.K.,Japan,Professional Services,Mid-Market,Japan,Japan,,Yuki Tanaka,Unassigned,No Owner,High,139500.0,Awaiting Assignment,1
+ACC-104636,Yadipeim Systems,Thailand,Software,SMB,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-104654,"Raizan Systems Co., Ltd.",Other,Software,Mid-Market,SEA,Unknown,Daniel Lim,,Ambiguous,Invalid Country,High,209000.0,Awaiting Data Enrichment,1
+ACC-104659,"Giapal Cloud Co., Ltd.",Thailand,Software,Mid-Market,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Medium,70000.0,Ready to Reassign,1
+ACC-104667,Zeiria Systems JSC,,Software,SMB,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-104669,Ciabiatoux Assurance,Singapore,Financial Services,SMB,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-104670,Sairein Mart Pty Ltd,,Retail,Mid-Market,ANZ,Unknown,James Wilson,,Ambiguous,Missing Country,Medium,67500.0,Awaiting Data Enrichment,1
+ACC-104678,"MAINIAKEIX HEALTH CO., LTD.",South Korea,Healthcare,Mid-Market,Korea,Korea,Min-Jun Park,Min-Jun Park,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-104695,Reboum Advisory Pvt Ltd,India,Professional Services,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,Low,,Awaiting Data Enrichment,1
+ACC-104709,MEYOTUM TECHNOLOGIES INC.,Philippines,Software,SMB,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-104713,Nuyialo Systems,India,Software,SMB,India,India,Arjun Mehta,Arjun Mehta,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-104724,PT Taigeir Assurance,,Financial Services,Mid-Market,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,77500.0,Awaiting Data Enrichment,1
+ACC-104725,Cofeipa Advisory JSC,APAC,Professional Services,SMB,,Unknown,Daniel Lim,,Ambiguous,Invalid Country,Low,,Awaiting Data Enrichment,1
+ACC-104731,Ceicoum Retail Inc.,Philippines,Retail,SMB,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Low,,Ready to Reassign,1
+ACC-104744,"Suvoupes Networks Co., Ltd.",,Telecommunications,SMB,,Unknown,Min-Jun Park,,Ambiguous,Missing Country,Medium,29000.0,Awaiting Data Enrichment,1
+ACC-104745,Paitaim Financial Pvt Ltd,India,Financial Services,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,Medium,9000.0,Awaiting Data Enrichment,1
+ACC-104755,Vagoren Academy JSC,Vietnam,Education,SMB,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Medium,23500.0,Awaiting Assignment,1
+ACC-104759,PT Nuhougou Holdings,Indonesia,Financial Services,Enterprise,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,High,,Ready to Reassign,1
+ACC-104771,Sazai Advisory K.K.,Japan,Professional Services,SMB,Japan,Japan,,Yuki Tanaka,Unassigned,No Owner,Medium,11500.0,Awaiting Assignment,1
+ACC-104772,Zireren Labs Pte Ltd,,Software,Mid-Market,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,31000.0,Awaiting Data Enrichment,1
+ACC-104785,Macakeix Health Pvt Ltd,India,Healthcare,Unknown,India,India,Priya Sharma,,Manual Review,Missing Employee Count,Low,,Awaiting Data Enrichment,1
+ACC-104800,PT Peilil Assurance,,Financial Services,Mid-Market,,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,76500.0,Awaiting Data Enrichment,1
+ACC-104802,Waikam Commerce Pte Ltd,APAC,Retail,Mid-Market,SEA,Unknown,Daniel Lim,,Ambiguous,Invalid Country,Medium,,Awaiting Data Enrichment,1
+ACC-104822,Dotim Transport Pvt Ltd,India,Logistics,SMB,India,India,,Arjun Mehta,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-104824,Yeitais Assurance JSC,Vietnam,Financial Services,SMB,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-104826,Hamomaim Advisory Pte Ltd,,Professional Services,SMB,SEA,Unknown,Daniel Lim,,Ambiguous,Missing Country,Medium,15500.0,Awaiting Data Enrichment,1
+ACC-104828,Gimowias Institute Pvt Ltd,India,Education,SMB,India,India,,Arjun Mehta,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-104831,Ricim Regional Council,Indonesia,Government,SMB,SEA,SEA,,Daniel Lim,Unassigned,No Owner,Low,,Awaiting Assignment,1
+ACC-104868,Veitudoum Systems Pte Ltd,Singapore,Software,SMB,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-104875,Ronim Digital JSC,Vietnam,Software,SMB,ANZ,SEA,James Wilson,Daniel Lim,Incorrectly Routed,Territory Mismatch,Medium,13000.0,Ready to Reassign,1
+ACC-104901,Mogail Assurance Pvt Ltd,India,Financial Services,SMB,India,India,,Arjun Mehta,Unassigned,No Owner,Medium,7000.0,Awaiting Assignment,1
+ACC-104903,Cediwir Advisory Private Limited,India,Professional Services,Mid-Market,India,India,Arjun Mehta,Arjun Mehta,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-104914,Jougul Networks Pty Ltd,,Telecommunications,SMB,,Unknown,James Wilson,,Ambiguous,Missing Country,Low,,Awaiting Data Enrichment,1
+ACC-104924,Losous Engineering K.K.,Japan,Manufacturing,SMB,,Japan,Yuki Tanaka,Yuki Tanaka,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-104926,Sasoun Holdings,India,Financial Services,Mid-Market,India,India,Arjun Mehta,Arjun Mehta,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-104929,Ciaha Holdings Pvt Ltd,India,Financial Services,SMB,,India,Arjun Mehta,Arjun Mehta,Unassigned,No Territory,Low,,Awaiting Assignment,1
+ACC-104951,Neileir Education Pvt Ltd,India,Education,SMB,SEA,India,Daniel Lim,Arjun Mehta,Incorrectly Routed,Territory Mismatch,Medium,5000.0,Ready to Reassign,1
+ACC-104965,Nocom Manufacturing Pvt Ltd,India,Manufacturing,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,Low,,Awaiting Data Enrichment,1
+ACC-104968,Kiatahu Academy Pvt Ltd,India,Education,Mid-Market,,India,Arjun Mehta,Arjun Mehta,Unassigned,No Territory,Medium,,Awaiting Assignment,1
+ACC-104969,PT Ciazatai Commerce,Indonesia,Retail,Enterprise,SEA,SEA,Daniel Lim,Daniel Lim,Manual Review,Duplicate Account,High,,Pending Merge Review,1
+ACC-104975,VAKEIJAN INDUSTRIES PVT LTD,India,Manufacturing,SMB,India,India,Arjun Mehta,Arjun Mehta,Manual Review,Duplicate Account,Low,,Pending Merge Review,1
+ACC-104983,Louruzis Stores Pvt Ltd,India,Retail,Mid-Market,India,India,,Arjun Mehta,Unassigned,No Owner,Medium,,Awaiting Assignment,1
+ACC-104988,Gosaten Technologies Private Limited,India,Software,Mid-Market,India,India,Arjun Mehta,Arjun Mehta,Manual Review,Duplicate Account,Medium,,Pending Merge Review,1
+ACC-104991,Gougas Industries K.K.,Japan,Manufacturing,Enterprise,,Japan,Yuki Tanaka,Yuki Tanaka,Unassigned,No Territory,High,,Awaiting Assignment,1
+ACC-104995,Doukoux Retail Pvt Ltd,India,Retail,Unknown,India,India,Arjun Mehta,,Manual Review,Missing Employee Count,Medium,65000.0,Awaiting Data Enrichment,1
+ACC-104999,Wopujim Cloud K.K.,Japan,Software,Mid-Market,Japan,Japan,,Yuki Tanaka,Unassigned,No Owner,Medium,26000.0,Awaiting Assignment,1

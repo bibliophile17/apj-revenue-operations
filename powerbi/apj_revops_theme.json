@@ -1,0 +1,15 @@
+{
+  "name": "APJ RevOps",
+  "dataColors": ["#1F3864", "#2E75B6", "#9DC3E6", "#ED7D31", "#A5A5A5", "#70AD47", "#FFC000", "#C00000"],
+  "background": "#FFFFFF",
+  "foreground": "#262626",
+  "tableAccent": "#1F3864",
+  "good": "#70AD47",
+  "neutral": "#FFC000",
+  "bad": "#C00000",
+  "textClasses": {
+    "title": {"fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#1F3864"},
+    "label": {"fontFace": "Segoe UI", "fontSize": 10, "color": "#404040"},
+    "callout": {"fontFace": "Segoe UI Semibold", "fontSize": 24, "color": "#1F3864"}
+  }
+}

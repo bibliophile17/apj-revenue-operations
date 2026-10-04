@@ -1,0 +1,12 @@
+Country,Country_Code,Territory,Region,Enterprise_Owner,MidMarket_Owner,SMB_Owner
+India,IN,India,South Asia,Priya Sharma,Arjun Mehta,Arjun Mehta
+Australia,AU,ANZ,Oceania,James Wilson,James Wilson,James Wilson
+New Zealand,NZ,ANZ,Oceania,James Wilson,James Wilson,James Wilson
+Singapore,SG,SEA,Southeast Asia,Daniel Lim,Daniel Lim,Daniel Lim
+Japan,JP,Japan,North Asia,Yuki Tanaka,Yuki Tanaka,Yuki Tanaka
+South Korea,KR,Korea,North Asia,Min-Jun Park,Min-Jun Park,Min-Jun Park
+Indonesia,ID,SEA,Southeast Asia,Daniel Lim,Daniel Lim,Daniel Lim
+Malaysia,MY,SEA,Southeast Asia,Daniel Lim,Daniel Lim,Daniel Lim
+Thailand,TH,SEA,Southeast Asia,Daniel Lim,Daniel Lim,Daniel Lim
+Philippines,PH,SEA,Southeast Asia,Daniel Lim,Daniel Lim,Daniel Lim
+Vietnam,VN,SEA,Southeast Asia,Daniel Lim,Daniel Lim,Daniel Lim

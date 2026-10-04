@@ -1,0 +1,1192 @@
+Account_ID,Company_Name,Country,Territory,Industry,Account_Tier,Issue_Type,Severity,Recommended_Action,Open_Pipeline_Value,Penalty
+ACC-100008,Zujain Engineering Pvt Ltd,India,India,Manufacturing,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),4500.0,40
+ACC-100012,Caisair Labs Pty Ltd,Australia,ANZ,Software,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-100030,"Laihos Industries Co., Ltd.",,Unknown,Manufacturing,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100038,Yeidiaza Holdings JSC,,Unknown,Financial Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,12000.0,40
+ACC-100108,Jijai Telecom JSC,,Unknown,Telecommunications,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100129,Nahial Freight JSC,,Unknown,Logistics,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,25000.0,40
+ACC-100130,Mikaheir Digital Ltd,New Zealand,ANZ,Software,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),12000.0,40
+ACC-100188,Souniteil Manufacturing Pty Ltd,,Unknown,Manufacturing,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100196,Wejoul Mart Pte Ltd,Singapore,SEA,Retail,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-100204,Zeiwa Systems Private Limited,India,India,Software,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-100212,"YEICAN CLOUD CO., LTD.",South Korea,Korea,Software,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-100217,Hodeihin Consulting Pte Ltd,Singapore,SEA,Professional Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-100242,PT RIRUL ENGINEERING,Indonesia,SEA,Manufacturing,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-100262,PIACUS PARTNERS K.K.,Japan,Japan,Professional Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-100284,Nodou Biosciences Pty. Ltd.,Australia,ANZ,Healthcare,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-100292,Mecom Manufacturing K.K.,,Unknown,Manufacturing,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100305,Biayiam Technologies Private Limited,India,India,Software,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-100349,Wehoupia Technologies Ltd,,Unknown,Software,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100358,Fohivis Capital Pty Ltd,Australia,ANZ,Financial Services,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-100364,Vuzoukox Assurance Pte Ltd,,Unknown,Financial Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,15500.0,40
+ACC-100365,Hiatur Commerce Pte Ltd,,Unknown,Retail,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100413,MAICIACAS MANUFACTURING INC.,Philippines,SEA,Manufacturing,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-100419,Yeiboupail Industries Pvt Ltd,,Unknown,Manufacturing,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,65500.0,40
+ACC-100444,Pouhour Health Pvt Ltd,,Unknown,Healthcare,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,18000.0,40
+ACC-100451,Yuleim Regional Council,,Unknown,Government,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,29500.0,40
+ACC-100464,Habiyix Labs K.K.,Japan,Japan,Software,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-100469,Zaiwes Industries Pty Ltd,,Unknown,Manufacturing,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100477,Leibougeir Financial K.K.,,Unknown,Financial Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100485,Neveiga Industries K.K.,Japan,Japan,Manufacturing,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-100503,Wiayum Engineering K.K.,Japan,Japan,Manufacturing,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-100512,Reloux Education K.K.,Japan,Japan,Education,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-100518,Deziwi Materials Pvt Ltd,,Unknown,Manufacturing,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,20000.0,40
+ACC-100523,Riayous Logistics JSC,,Unknown,Logistics,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100527,"Hejom Manufacturing Co., Ltd.",,Unknown,Manufacturing,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,12500.0,40
+ACC-100541,Saidum Systems K.K.,,Unknown,Software,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100543,Kaiseiyoul Technologies Pte Ltd,,Unknown,Software,Enterprise,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100555,Weikeimein Capital Pvt Ltd,India,India,Financial Services,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-100595,Gainis Academy K.K.,Japan,Japan,Education,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-100597,Geimojia Financial K.K.,Japan,Japan,Financial Services,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),85500.0,40
+ACC-100609,Bebor Engineering JSC,,Unknown,Manufacturing,Enterprise,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100614,Palous Systems K.K.,,Unknown,Software,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100630,Pojejoun Stores Ltd,,Unknown,Retail,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,30000.0,40
+ACC-100635,Ceiloudiar Institute JSC,,Unknown,Education,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100681,Juliam Technologies Pty Ltd,,Unknown,Software,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100694,Giasian Holdings Pvt Ltd,,Unknown,Financial Services,Enterprise,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100701,Labufian Medical Inc.,,Unknown,Healthcare,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,299500.0,40
+ACC-100720,PT Kiwocil Materials,Indonesia,SEA,Manufacturing,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),4500.0,40
+ACC-100733,Zuzouhour Capital Ltd,,Unknown,Financial Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,16000.0,40
+ACC-100740,Docikous Engineering Inc.,Philippines,SEA,Manufacturing,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),16500.0,40
+ACC-100746,Meihim Education Pvt Ltd,,Unknown,Education,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,12500.0,40
+ACC-100750,Deiduhoun Holdings Inc.,,Unknown,Financial Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100754,Gousu Holdings Sdn Bhd,Malaysia,SEA,Financial Services,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-100756,Zosel Technologies,Vietnam,SEA,Software,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-100766,Caivon Manufacturing Pvt Ltd,,Unknown,Manufacturing,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100787,Podihul Stores JSC,Vietnam,SEA,Retail,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-100819,Wounopi Solutions Pte Ltd,,Unknown,Professional Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100821,BEIFOUWIAS HOLDINGS PTE LTD,Singapore,SEA,Financial Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-100821,BEIFOUWIAS HOLDINGS PTE LTD,Singapore,SEA,Financial Services,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-100842,"Lizeicai Technologies Co., Ltd.",,Unknown,Software,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100856,PADEM RETAIL PTY LTD,Australia,ANZ,Retail,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-100863,Baihi Transport Pty Ltd,Asia Pacific,Unknown,Logistics,SMB,Invalid Country,Critical,Replace non-country value with the HQ country,0.0,40
+ACC-100876,Pikenail Holdings Sdn Bhd,Malaysia,SEA,Financial Services,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-100877,Louyeitias Telecom Sdn Bhd,Malaysia,SEA,Telecommunications,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),110500.0,40
+ACC-100894,"Tanosis Education Co., Ltd.",,Unknown,Education,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100949,Kazukax Consulting Pty. Ltd.,Australia,ANZ,Professional Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-100960,"Hukel Cloud Co., Ltd.",Thailand,SEA,Software,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),16000.0,40
+ACC-100977,Maihouca Advisory Pvt Ltd,,Unknown,Professional Services,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100984,Wesetian Capital Pty Ltd,,Unknown,Financial Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-100984,Wesetian Capital Pty Ltd,,Unknown,Financial Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-100987,Jajiacous Digital Pvt Ltd,India,India,Software,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),96500.0,40
+ACC-101004,Nojitous Medical Pvt Ltd,,Unknown,Healthcare,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-101004,Nojitous Medical Pvt Ltd,,Unknown,Healthcare,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-101011,Juliajain Assurance JSC,Vietnam,SEA,Financial Services,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-101025,Taisus Networks,New Zealand,ANZ,Telecommunications,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-101037,Ziacaiwox Health,India,India,Healthcare,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-101044,Noupaix Engineering K.K.,,Unknown,Manufacturing,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,51500.0,40
+ACC-101065,Neizeser Solutions Inc.,Philippines,SEA,Professional Services,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-101076,"Peitai Communications Co., Ltd.",South Korea,Korea,Telecommunications,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-101083,Yejer Stores Pvt Ltd,,Unknown,Retail,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-101087,Kojiasex Telecom K.K.,,Unknown,Telecommunications,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-101092,PT Zigazen Stores,,Unknown,Retail,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,171500.0,40
+ACC-101113,Meiriayas Manufacturing Pty Ltd,Australia,ANZ,Manufacturing,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-101122,Jeiser Materials K.K.,Japan,Japan,Manufacturing,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),5500.0,40
+ACC-101132,Borax Systems Pty Ltd,,Unknown,Software,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-101132,Borax Systems Pty Ltd,,Unknown,Software,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-101138,Saiceigei Materials Pvt Ltd,India,India,Manufacturing,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),15000.0,40
+ACC-101139,Zewoyi Digital Services Board,,Unknown,Government,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-101145,Mouzux Care Pvt Ltd,India,India,Healthcare,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-101147,PT Rolail Biosciences,,Unknown,Healthcare,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-101155,PT Roumei Transport,Indonesia,SEA,Logistics,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-101156,Riayowou Solutions JSC,,Unknown,Professional Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,23000.0,40
+ACC-101157,Fuvanul Consulting Pty Ltd,,Unknown,Professional Services,Enterprise,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-101195,Ceileite Materials,South Korea,Korea,Manufacturing,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-101199,"Tiayu Retail Co., Ltd.",,Unknown,Retail,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-101203,Zudotes Technologies JSC,,Unknown,Software,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-101228,Beiniamos Technologies Inc.,Philippines,SEA,Software,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),27500.0,40
+ACC-101229,PT Reigeitax Stores,Indonesia,SEA,Retail,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),15500.0,40
+ACC-101257,Baisiax Materials JSC,,Unknown,Manufacturing,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,12500.0,40
+ACC-101258,"Deiteis Supply Chain Co., Ltd.",Thailand,SEA,Logistics,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),4500.0,40
+ACC-101266,Panai Systems Ltd,New Zealand,ANZ,Software,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),48500.0,40
+ACC-101283,Haiwairain Logistics Pvt Ltd,India,India,Logistics,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-101294,Souliabix Supply Chain K.K.,,Unknown,Logistics,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,108500.0,40
+ACC-101331,Ciabizian Biosciences Pte Ltd,,Unknown,Healthcare,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-101344,Bosilir Capital Pvt Ltd,India,India,Financial Services,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),9000.0,40
+ACC-101347,Rulaboun Cloud K.K.,Japan,Japan,Software,Enterprise,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-101348,Couyei Materials Inc.,Philippines,SEA,Manufacturing,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-101354,Toujorel Capital K.K.,Japan,Japan,Financial Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-101361,JAITOFU LABS PVT LTD,India,India,Software,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-101370,Fekiga Engineering Pty Ltd,,Unknown,Manufacturing,Enterprise,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,427000.0,40
+ACC-101411,"Podaihol Materials Co., Ltd.",South Korea,Korea,Manufacturing,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-101429,Soumaimial Materials Pvt Ltd,Other,Unknown,Manufacturing,SMB,Invalid Country,Critical,Replace non-country value with the HQ country,0.0,40
+ACC-101443,Jajouzes Solutions Pte Ltd,APAC,Unknown,Professional Services,Mid-Market,Invalid Country,Critical,Replace non-country value with the HQ country,0.0,40
+ACC-101450,Febous Logistics Pty Ltd,Australia,ANZ,Logistics,Enterprise,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-101477,Viborol Commerce K.K.,,Unknown,Retail,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-101503,Favougos Materials,Thailand,SEA,Manufacturing,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-101515,PT Rugoroul Industries,Indonesia,SEA,Manufacturing,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-101524,Riaziabas Solutions K.K.,,Unknown,Professional Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-101532,Bidias Digital Pte Ltd,,Unknown,Software,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,301500.0,40
+ACC-101542,Hodeihin Consulting Pte Ltd,Singapore,SEA,Professional Services,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),8500.0,40
+ACC-101564,Cucoux Capital Pty Ltd,,Unknown,Financial Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-101575,Lailigian Partners K.K.,Japan,Japan,Professional Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-101576,Douviavex Advisory Private Limited,India,India,Professional Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-101585,Cenetum Mart Pte Ltd,,Unknown,Retail,Enterprise,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-101604,Guluyam Solutions Pty. Ltd.,Australia,ANZ,Professional Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-101641,Yaihaiwix Consulting Sdn Bhd,,Unknown,Professional Services,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-101642,Behar Systems Pty Ltd,Australia,ANZ,Software,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-101661,Taisus Networks Ltd,,Unknown,Telecommunications,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-101673,"Pouki Technologies Co., Ltd.",Thailand,SEA,Software,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-101684,Wuvouneim Manufacturing Pty Ltd,,Unknown,Manufacturing,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-101700,"Bekoupor Medical Co., Ltd.",APAC,Unknown,Healthcare,Enterprise,Invalid Country,Critical,Replace non-country value with the HQ country,427000.0,40
+ACC-101702,Veipair Manufacturing K.K.,Japan,Japan,Manufacturing,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),12000.0,40
+ACC-101708,ROUVIN BIOSCIENCES PVT LTD,India,India,Healthcare,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-101714,Jiagaiceir Commerce Inc.,Philippines,SEA,Retail,Unknown,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-101730,Galesou Digital,Philippines,SEA,Software,Enterprise,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-101753,Fifailor Supply Chain Pte Ltd,Singapore,SEA,Logistics,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-101779,"Jaiboux Engineering Co., Ltd.",South Korea,Korea,Manufacturing,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-101780,Sawex Cloud Pvt Ltd,,Unknown,Software,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-101797,Biacas Technologies K.K.,,Unknown,Software,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-101807,Rimaisial Education Pty Ltd,Australia,ANZ,Education,Enterprise,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-101812,"Rewemox Education Co., Ltd.",,Unknown,Education,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,82500.0,40
+ACC-101828,Gairoubeim Capital Pty Ltd,,Unknown,Financial Services,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-101847,PIAVEKEL LABS PTY LTD,Australia,ANZ,Software,Enterprise,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-101848,Dairour Retail Pte Ltd,,Unknown,Retail,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-101890,BESAIR MART K.K.,Japan,Japan,Retail,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-101897,Youvekir Telecom K.K.,Japan,Japan,Telecommunications,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-101922,Sigoudou Telecom K.K.,Japan,Japan,Telecommunications,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-101963,Piapoutir Industries K.K.,,Unknown,Manufacturing,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-102005,"Ceijes Medical Co., Ltd.",,Unknown,Healthcare,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-102014,Wopail Consulting K.K.,Japan,Japan,Professional Services,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-102015,Viabo Logistics Pvt Ltd,,Unknown,Logistics,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,16500.0,40
+ACC-102017,Cavakiax Consulting K.K.,Japan,Japan,Professional Services,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-102019,Vaideso Engineering Pte Ltd,,Unknown,Manufacturing,Enterprise,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-102032,Yegouzu Partners,Australia,ANZ,Professional Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-102045,"Houladen Telecom Co., Ltd.",South Korea,Korea,Telecommunications,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-102082,PT Duhoubo Supply Chain,,Unknown,Logistics,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,33000.0,40
+ACC-102133,Jeicouyo Education Pvt Ltd,India,India,Education,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-102150,Mitiyex Solutions Pty Ltd,Australia,ANZ,Professional Services,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),13500.0,40
+ACC-102171,Fusoyian Holdings Pvt Ltd,,Unknown,Financial Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-102251,Tapaix Learning Sdn Bhd,,Unknown,Education,Unknown,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,9500.0,40
+ACC-102255,"Yeices Advisory Co., Ltd.",,Unknown,Professional Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,11000.0,40
+ACC-102257,Dupoutous Materials,Thailand,SEA,Manufacturing,Enterprise,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-102258,"Yaidaija Networks Co., Ltd.",,Unknown,Telecommunications,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,58000.0,40
+ACC-102269,Jaibax Capital K.K.,Japan,Japan,Financial Services,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),61000.0,40
+ACC-102304,"Sijor Systems Co., Ltd.",South Korea,Korea,Software,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-102308,Woumeinous Holdings Private Limited,India,India,Financial Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-102316,PT Yeirim Health,Indonesia,SEA,Healthcare,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),9500.0,40
+ACC-102318,Miawu Digital Pvt Ltd,Asia Pacific,Unknown,Software,Mid-Market,Invalid Country,Critical,Replace non-country value with the HQ country,0.0,40
+ACC-102371,PT Jaiceijom Solutions,Indonesia,SEA,Professional Services,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),17500.0,40
+ACC-102394,Paifagian Manufacturing Pvt Ltd,India,India,Manufacturing,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-102399,Yimam Systems Pty Ltd,,Unknown,Software,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,96500.0,40
+ACC-102409,Cotiabain Medical K.K.,,Unknown,Healthcare,Enterprise,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-102416,Giayeir Logistics Pty Ltd,Australia,ANZ,Logistics,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-102440,Palous Systems,Japan,Japan,Software,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-102449,Tatouyial Supply Chain Pty Ltd,,Unknown,Logistics,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,38000.0,40
+ACC-102458,Wiapofoum Institute Pvt Ltd,,Unknown,Education,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,12500.0,40
+ACC-102468,Boukin Health Pty Ltd,Australia,ANZ,Healthcare,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-102516,Beico Financial K.K.,,Unknown,Financial Services,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-102524,Laizar Capital JSC,Vietnam,SEA,Financial Services,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),13500.0,40
+ACC-102550,Vaiyiadeir Public Services Authority,Indonesia,SEA,Government,Enterprise,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-102568,Dougu Stores Pty Ltd,Australia,ANZ,Retail,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-102575,"Telaiwar Supply Chain Co., Ltd.",South Korea,Korea,Logistics,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-102586,Haibax Institute K.K.,,Unknown,Education,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,166000.0,40
+ACC-102593,Beininour Digital K.K.,Japan,Japan,Software,Enterprise,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-102596,Yoteiyus Advisory Pty Ltd,,Unknown,Professional Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-102610,Diajisous Materials Pte Ltd,,Unknown,Manufacturing,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,29000.0,40
+ACC-102613,"Leitohair Partners Co., Ltd.",South Korea,Korea,Professional Services,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-102621,Zeiduriam Networks K.K.,,Unknown,Telecommunications,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,90000.0,40
+ACC-102626,PEIWUNAN LABS PTE LTD,Singapore,SEA,Software,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-102636,Ciabizian Biosciences Pte Ltd,,Unknown,Healthcare,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-102636,Ciabizian Biosciences Pte Ltd,,Unknown,Healthcare,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-102650,Sousou Cloud Pty Ltd,,Unknown,Software,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-102658,Pikenail Holdings Sdn Bhd,Malaysia,SEA,Financial Services,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-102660,Siviam Cloud Pvt Ltd,India,India,Software,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-102670,Senein Industries Pty Ltd,Australia,ANZ,Manufacturing,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-102705,Sekoco Industries Pty Ltd,Australia,ANZ,Manufacturing,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-102708,Sediadel Systems Pvt Ltd,India,India,Software,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-102767,Wudaivox Regional Council,Asia Pacific,Unknown,Government,Mid-Market,Invalid Country,Critical,Replace non-country value with the HQ country,0.0,40
+ACC-102776,Yaijiwir Systems Pty Ltd,,Unknown,Software,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-102787,Lobou Capital Pvt Ltd,,Unknown,Financial Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-102797,Jougujei Assurance Pty Ltd,Australia,ANZ,Financial Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-102805,PT Zipux Solutions,,Unknown,Professional Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,14500.0,40
+ACC-102811,Neiboudiax Advisory Ltd,New Zealand,ANZ,Professional Services,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),45500.0,40
+ACC-102816,Fipaizan Cloud Pty Ltd,,Unknown,Software,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,7500.0,40
+ACC-102818,Gobeijeis Digital Services Board,,Unknown,Government,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-102821,Reigarex Health Inc.,,Unknown,Healthcare,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-102838,"JIAVAKIA CAPITAL CO., LTD.",South Korea,Korea,Financial Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-102849,Nores Engineering Pty. Ltd.,Australia,ANZ,Manufacturing,Unknown,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-102855,Waiwubir Materials JSC,,Unknown,Manufacturing,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,51500.0,40
+ACC-102886,Cozemour Public Services Authority,Japan,Japan,Government,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-102918,Teibeivos Digital Pvt Ltd,,Unknown,Software,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-102932,Fivum Holdings Pte Ltd,Singapore,SEA,Financial Services,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-102933,"Soupohou Capital Co., Ltd.",South Korea,Korea,Financial Services,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-102934,Meyikes Assurance Sdn Bhd,,Unknown,Financial Services,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-102965,Woufur Stores Pvt Ltd,India,India,Retail,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-102990,"Gaipox Labs Co., Ltd.",,Unknown,Software,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-103001,Jokou Partners K.K.,,Unknown,Professional Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,20500.0,40
+ACC-103005,Wiajuweis Partners Inc.,,Unknown,Professional Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-103009,Zaimoux Institute Pty Ltd,,Unknown,Education,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-103019,Mouvem Advisory Pvt Ltd,India,India,Professional Services,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-103029,Zouvias Financial K.K.,,Unknown,Financial Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,9500.0,40
+ACC-103044,Duwum Advisory Pvt Ltd,,Unknown,Professional Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-103068,Rouro Freight Pte Ltd,,Unknown,Logistics,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-103073,Pofiayei Medical,South Korea,Korea,Healthcare,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-103109,Maidulaix Financial,,Unknown,Financial Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-103109,Maidulaix Financial,,Unknown,Financial Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-103120,Wevumei Commerce K.K.,,Unknown,Retail,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-103139,Jairim Learning Sdn Bhd,Malaysia,SEA,Education,Unknown,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),135000.0,40
+ACC-103180,Kaseivu Financial Ltd,,Unknown,Financial Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,35000.0,40
+ACC-103195,Reicouyou Academy Pte Ltd,Singapore,SEA,Education,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-103234,Touwo Systems JSC,Vietnam,SEA,Software,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-103251,"Biakom Systems Co., Ltd.",,Unknown,Software,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-103280,PT Doupowu Assurance,,Unknown,Financial Services,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,30500.0,40
+ACC-103292,Wuyounour Consulting Pty Ltd,,Unknown,Professional Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,20500.0,40
+ACC-103298,Waigur Labs JSC,Vietnam,SEA,Software,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),17500.0,40
+ACC-103304,Hutahom Industries,Australia,ANZ,Manufacturing,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-103312,Tezaim Biosciences Pte Ltd,,Unknown,Healthcare,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-103324,Kaifan Systems Pvt Ltd,India,India,Software,Enterprise,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-103356,PT Tiayoujin Transport,Indonesia,SEA,Logistics,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),70000.0,40
+ACC-103403,Louseil Health Pte Ltd,Singapore,SEA,Healthcare,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-103432,Ciyujeis Consulting Sdn Bhd,Malaysia,SEA,Professional Services,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),15500.0,40
+ACC-103449,Gojafais Holdings,India,India,Financial Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-103453,PT Loubiax Solutions,Indonesia,SEA,Professional Services,Enterprise,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-103468,Kiacairi Industries JSC,Vietnam,SEA,Manufacturing,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-103475,Caibiter Commerce Pvt Ltd,India,India,Retail,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-103478,Sozei Manufacturing K.K.,,Unknown,Manufacturing,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-103480,Cayiax Health JSC,Vietnam,SEA,Healthcare,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-103486,"Vekijul Engineering Co., Ltd.",Thailand,SEA,Manufacturing,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-103491,PT Neizaipux Retail,,Unknown,Retail,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-103514,Ruyeipeir Advisory,Australia,ANZ,Professional Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-103518,"Kameim Health Co., Ltd.",,Unknown,Healthcare,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,54000.0,40
+ACC-103523,Rialojoun Biosciences,Thailand,SEA,Healthcare,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-103526,Haicai Transport Pvt Ltd,,Unknown,Logistics,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,30000.0,40
+ACC-103530,Sejewas Institute Pty Ltd,,Unknown,Education,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-103532,"Yuyol Systems Co., Ltd.",,Unknown,Software,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-103545,Zuvouyix Labs Pvt Ltd,,Unknown,Software,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-103548,Douvias Regional Council,Vietnam,SEA,Government,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-103556,Rufon Holdings JSC,,Unknown,Financial Services,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-103560,Pirazeim Partners K.K.,Japan,Japan,Professional Services,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-103594,Kigam Assurance Pty Ltd,Australia,ANZ,Financial Services,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),14500.0,40
+ACC-103597,Kousom Supply Chain JSC,,Unknown,Logistics,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-103601,PT Gaizi Holdings,Indonesia,SEA,Financial Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-103603,PT Vorourax Medical,Indonesia,SEA,Healthcare,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),52000.0,40
+ACC-103613,Duwia Manufacturing Pty Ltd,,Unknown,Manufacturing,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,29500.0,40
+ACC-103623,Heigex Labs Pte Ltd,,Unknown,Software,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,23000.0,40
+ACC-103624,Youvaifour Freight,Japan,Japan,Logistics,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-103640,Navucu Industries Pte Ltd,Singapore,SEA,Manufacturing,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-103645,"Pepacer Systems Co., Ltd.",South Korea,Korea,Software,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-103652,"Covous Learning Co., Ltd.",,Unknown,Education,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,8500.0,40
+ACC-103668,Nodailiax Advisory Sdn Bhd,,Unknown,Professional Services,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,58000.0,40
+ACC-103693,Coufim Digital Pty Ltd,Australia,ANZ,Software,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-103706,Ceimous Biosciences Pty Ltd,,Unknown,Healthcare,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-103717,Deikica Learning Pte Ltd,Singapore,SEA,Education,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-103728,Raimoux Consulting Pte Ltd,,Unknown,Professional Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,13000.0,40
+ACC-103741,Wepus Manufacturing Pvt Ltd,India,India,Manufacturing,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-103750,Seyezir Partners Pvt Ltd,India,India,Professional Services,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-103755,Behai Materials Pte Ltd,Singapore,SEA,Manufacturing,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-103823,Foume Retail JSC,,Unknown,Retail,Unknown,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-103827,Yeidolem Communications Pvt Ltd,,Unknown,Telecommunications,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-103844,Fiaroux Transport Pty Ltd,Australia,ANZ,Logistics,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),63500.0,40
+ACC-103851,Jiyeis Mart,Japan,Japan,Retail,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-103867,Citun Care Pty Ltd,Australia,ANZ,Healthcare,Enterprise,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-103871,Jerex Cloud Ltd,,Unknown,Software,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-103873,Zimiazai Financial Ltd,New Zealand,ANZ,Financial Services,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-103898,Ziyaiyair Networks Inc.,,Unknown,Telecommunications,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-103901,Laibeitou Care Pty Ltd,,Unknown,Healthcare,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-103928,PT Lojux Biosciences,Indonesia,SEA,Healthcare,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-103931,WAILON CONSULTING K.K.,Japan,Japan,Professional Services,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-103936,Lanan Academy JSC,Vietnam,SEA,Education,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-103951,Viakaim Logistics Sdn Bhd,,Unknown,Logistics,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,33000.0,40
+ACC-103967,SAWIMES RETAIL LTD,APAC,Unknown,Retail,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-103967,SAWIMES RETAIL LTD,APAC,Unknown,Retail,SMB,Invalid Country,Critical,Replace non-country value with the HQ country,0.0,40
+ACC-103970,Tugiasou Industries Pte Ltd,Singapore,SEA,Manufacturing,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),6500.0,40
+ACC-103980,Jujou Biosciences Sdn Bhd,Malaysia,SEA,Healthcare,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-103993,Nusem Biosciences Pvt Ltd,India,India,Healthcare,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-103997,Verekia Systems K.K.,Japan,Japan,Software,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-104000,PT Ducai Cloud,,Unknown,Software,Enterprise,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-104027,Memacais Digital Pvt Ltd,,Unknown,Software,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-104035,Zeigaimiax Manufacturing K.K.,,Unknown,Manufacturing,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,117000.0,40
+ACC-104060,DAIGAZA HOLDINGS PTY LTD,Australia,ANZ,Financial Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104065,Neidein Supply Chain K.K.,Japan,Japan,Logistics,Enterprise,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104067,Yikalou Partners Private Limited,India,India,Professional Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104074,Saibuheir Industries Sdn Bhd,,Unknown,Manufacturing,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,155000.0,40
+ACC-104091,Zumaiven Labs,Australia,ANZ,Software,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104105,"Mavomou Digital Co., Ltd.",Thailand,SEA,Software,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104105,"Mavomou Digital Co., Ltd.",Thailand,SEA,Software,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-104120,PT Ralus Systems,,Unknown,Software,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-104137,Joumohis Networks K.K.,Japan,Japan,Telecommunications,Enterprise,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104153,Zoures Industries Sdn Bhd,,Unknown,Manufacturing,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,13500.0,40
+ACC-104158,Vunas Mart,India,India,Retail,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104161,Socufe Institute K.K.,Japan,Japan,Education,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-104208,Zocetaix Technologies K.K.,Japan,Japan,Software,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-104212,Jonim Commerce K.K.,,Unknown,Retail,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-104214,Kiviayeix Health Pvt Ltd,Asia Pacific,Unknown,Healthcare,SMB,Invalid Country,Critical,Replace non-country value with the HQ country,0.0,40
+ACC-104242,PT Gikiax Institute,Other,Unknown,Education,Mid-Market,Invalid Country,Critical,Replace non-country value with the HQ country,32000.0,40
+ACC-104248,Dulusei Logistics Inc.,,Unknown,Logistics,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-104249,Kiazai Capital Pvt Ltd,,Unknown,Financial Services,Enterprise,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-104278,Cakoun Advisory K.K.,Other,Unknown,Professional Services,SMB,Invalid Country,Critical,Replace non-country value with the HQ country,16000.0,40
+ACC-104364,Ludair Consulting Pty Ltd,Australia,ANZ,Professional Services,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-104381,Souhusoum Learning Inc.,Other,Unknown,Education,SMB,Invalid Country,Critical,Replace non-country value with the HQ country,0.0,40
+ACC-104384,Veipair Manufacturing,Japan,Japan,Manufacturing,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104387,Meidiaveil Systems Pty Ltd,,Unknown,Software,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,20000.0,40
+ACC-104393,"Rimux Networks Co., Ltd.",Asia Pacific,Unknown,Telecommunications,Mid-Market,Invalid Country,Critical,Replace non-country value with the HQ country,21500.0,40
+ACC-104403,"SOUPOHOU CAPITAL CO., LTD.",South Korea,Korea,Financial Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104477,"Hiasefai Advisory Co., Ltd.",,Unknown,Professional Services,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-104477,"Hiasefai Advisory Co., Ltd.",,Unknown,Professional Services,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-104484,Pijaix Learning Pvt Ltd,India,India,Education,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-104506,Saifebaim Telecom K.K.,,Unknown,Telecommunications,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-104526,Ruyeil Freight Pty. Ltd.,Australia,ANZ,Logistics,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104540,Giadis Materials Pvt Ltd,APAC,Unknown,Manufacturing,Mid-Market,Invalid Country,Critical,Replace non-country value with the HQ country,0.0,40
+ACC-104552,PT Zipux Solutions,Indonesia,SEA,Professional Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104556,Mujais Retail Pvt Ltd,,Unknown,Retail,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,6500.0,40
+ACC-104592,Yeibutus Health Pvt Ltd,India,India,Healthcare,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),11500.0,40
+ACC-104596,Mujem Logistics Pvt Ltd,India,India,Logistics,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-104604,JOUSU HOLDINGS PTY LTD,Australia,ANZ,Financial Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104610,Toliahus Materials Pvt Ltd,,Unknown,Manufacturing,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-104628,Wailon Consulting K.K.,Japan,Japan,Professional Services,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),139500.0,40
+ACC-104636,Yadipeim Systems,Thailand,SEA,Software,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104654,"Raizan Systems Co., Ltd.",Other,Unknown,Software,Mid-Market,Invalid Country,Critical,Replace non-country value with the HQ country,209000.0,40
+ACC-104667,Zeiria Systems JSC,,Unknown,Software,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-104669,Ciabiatoux Assurance,Singapore,SEA,Financial Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104670,Sairein Mart Pty Ltd,,Unknown,Retail,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,67500.0,40
+ACC-104678,"MAINIAKEIX HEALTH CO., LTD.",South Korea,Korea,Healthcare,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104709,MEYOTUM TECHNOLOGIES INC.,Philippines,SEA,Software,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104713,Nuyialo Systems,India,India,Software,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104724,PT Taigeir Assurance,,Unknown,Financial Services,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,77500.0,40
+ACC-104725,Cofeipa Advisory JSC,APAC,Unknown,Professional Services,SMB,Invalid Country,Critical,Replace non-country value with the HQ country,0.0,40
+ACC-104744,"Suvoupes Networks Co., Ltd.",,Unknown,Telecommunications,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,29000.0,40
+ACC-104755,Vagoren Academy JSC,Vietnam,SEA,Education,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),23500.0,40
+ACC-104771,Sazai Advisory K.K.,Japan,Japan,Professional Services,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),11500.0,40
+ACC-104772,Zireren Labs Pte Ltd,,Unknown,Software,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,31000.0,40
+ACC-104800,PT Peilil Assurance,,Unknown,Financial Services,Mid-Market,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,76500.0,40
+ACC-104802,Waikam Commerce Pte Ltd,APAC,Unknown,Retail,Mid-Market,Invalid Country,Critical,Replace non-country value with the HQ country,0.0,40
+ACC-104822,Dotim Transport Pvt Ltd,India,India,Logistics,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-104824,Yeitais Assurance JSC,Vietnam,SEA,Financial Services,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104826,Hamomaim Advisory Pte Ltd,,Unknown,Professional Services,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,15500.0,40
+ACC-104828,Gimowias Institute Pvt Ltd,India,India,Education,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-104831,Ricim Regional Council,Indonesia,SEA,Government,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-104868,Veitudoum Systems Pte Ltd,Singapore,SEA,Software,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104901,Mogail Assurance Pvt Ltd,India,India,Financial Services,SMB,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),7000.0,40
+ACC-104903,Cediwir Advisory Private Limited,India,India,Professional Services,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104914,Jougul Networks Pty Ltd,,Unknown,Telecommunications,SMB,Missing Country,Critical,Enrich country from domain/billing address; routing is blocked until fixed,0.0,40
+ACC-104926,Sasoun Holdings,India,India,Financial Services,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104969,PT Ciazatai Commerce,Indonesia,SEA,Retail,Enterprise,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104975,VAKEIJAN INDUSTRIES PVT LTD,India,India,Manufacturing,SMB,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104983,Louruzis Stores Pvt Ltd,India,India,Retail,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),0.0,40
+ACC-104988,Gosaten Technologies Private Limited,India,India,Software,Mid-Market,Duplicate Account,Critical,Merge into master record (Master_Account_ID) and re-point opportunities,0.0,40
+ACC-104999,Wopujim Cloud K.K.,Japan,Japan,Software,Mid-Market,Missing Owner,Critical,Assign owner per territory rules (Expected_Owner),26000.0,40
+ACC-100002,Yekeijix Academy K.K.,Japan,Japan,Education,Mid-Market,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,127000.0,25
+ACC-100034,Pouwiage Care Pvt Ltd,India,India,Healthcare,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),44000.0,25
+ACC-100038,Yeidiaza Holdings JSC,,Unknown,Financial Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,12000.0,25
+ACC-100108,Jijai Telecom JSC,,Unknown,Telecommunications,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-100137,Gudamiar Partners Sdn Bhd,Malaysia,SEA,Professional Services,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,19500.0,25
+ACC-100155,Yegouzu Partners Pty Ltd,Australia,ANZ,Professional Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-100169,Vijeigia Holdings Pvt Ltd,India,India,Financial Services,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),64000.0,25
+ACC-100200,Gohouyia Industries Pty Ltd,Australia,ANZ,Manufacturing,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,130000.0,25
+ACC-100253,Naisugais Care Sdn Bhd,Malaysia,SEA,Healthcare,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-100263,Sezil Stores Pty Ltd,Australia,ANZ,Retail,SMB,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,21500.0,25
+ACC-100282,Kehaidam Assurance Inc.,Philippines,SEA,Financial Services,Enterprise,Missing Territory,High,Populate Sales_Territory from country mapping,203000.0,25
+ACC-100285,Maicounous Financial Sdn Bhd,Malaysia,SEA,Financial Services,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-100287,Siafia Commerce Pte Ltd,Singapore,SEA,Retail,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-100292,Mecom Manufacturing K.K.,,Unknown,Manufacturing,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-100304,"Pibodur Cloud Co., Ltd.",South Korea,Korea,Software,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-100306,Rebis Biosciences Pvt Ltd,India,India,Healthcare,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),0.0,25
+ACC-100335,"Wewem Materials Co., Ltd.",Thailand,SEA,Manufacturing,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-100359,"Mupoum Medical Co., Ltd.",South Korea,Korea,Healthcare,Unknown,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-100364,Vuzoukox Assurance Pte Ltd,,Unknown,Financial Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,15500.0,25
+ACC-100365,Hiatur Commerce Pte Ltd,,Unknown,Retail,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-100389,Toudaihou Assurance Pvt Ltd,India,India,Financial Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-100392,Giyipum Institute Pvt Ltd,India,India,Education,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,126500.0,25
+ACC-100401,Lagou Academy Pvt Ltd,India,India,Education,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),67000.0,25
+ACC-100410,Haijam Care JSC,Vietnam,SEA,Healthcare,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,28000.0,25
+ACC-100417,Yoyian Digital K.K.,Japan,Japan,Software,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-100419,Yeiboupail Industries Pvt Ltd,,Unknown,Manufacturing,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,65500.0,25
+ACC-100436,Wateim Supply Chain K.K.,Japan,Japan,Logistics,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-100444,Pouhour Health Pvt Ltd,,Unknown,Healthcare,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,18000.0,25
+ACC-100446,Gougoucol Health K.K.,Japan,Japan,Healthcare,SMB,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,19500.0,25
+ACC-100451,Yuleim Regional Council,,Unknown,Government,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,29500.0,25
+ACC-100469,Zaiwes Industries Pty Ltd,,Unknown,Manufacturing,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-100490,Wanesur Commerce K.K.,Japan,Japan,Retail,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,86500.0,25
+ACC-100497,Yocaifiam Cloud Pty Ltd,Australia,ANZ,Software,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,21000.0,25
+ACC-100499,Couvias Manufacturing Pvt Ltd,India,India,Manufacturing,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),6500.0,25
+ACC-100510,"Mainiakeix Health Co., Ltd.",South Korea,Korea,Healthcare,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-100522,Natar Telecom K.K.,Japan,Japan,Telecommunications,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-100524,PT Beicai Technologies,Indonesia,SEA,Software,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-100541,Saidum Systems K.K.,,Unknown,Software,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-100542,Bebaix Engineering K.K.,Japan,Japan,Manufacturing,Enterprise,Missing Territory,High,Populate Sales_Territory from country mapping,188000.0,25
+ACC-100542,Bebaix Engineering K.K.,Japan,Japan,Manufacturing,Enterprise,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,188000.0,25
+ACC-100565,Zeiwejias Regional Council,India,India,Government,Enterprise,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-100609,Bebor Engineering JSC,,Unknown,Manufacturing,Enterprise,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-100610,"Bialugais Cloud Co., Ltd.",Thailand,SEA,Software,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,127500.0,25
+ACC-100630,Pojejoun Stores Ltd,,Unknown,Retail,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,30000.0,25
+ACC-100649,Wuhes Solutions Pvt Ltd,India,India,Professional Services,SMB,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,17000.0,25
+ACC-100681,Juliam Technologies Pty Ltd,,Unknown,Software,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-100700,PT Tialever Logistics,Indonesia,SEA,Logistics,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,110000.0,25
+ACC-100701,Labufian Medical Inc.,,Unknown,Healthcare,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,299500.0,25
+ACC-100706,Toupoum Care Pvt Ltd,India,India,Healthcare,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),0.0,25
+ACC-100706,Toupoum Care Pvt Ltd,India,India,Healthcare,Unknown,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-100742,Dameimour Digital Pty Ltd,Australia,ANZ,Software,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-100744,Fifix Holdings Sdn Bhd,Malaysia,SEA,Financial Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,32000.0,25
+ACC-100750,Deiduhoun Holdings Inc.,,Unknown,Financial Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-100756,Zosel Technologies,Vietnam,SEA,Software,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-100792,Poyawain Assurance Ltd,New Zealand,ANZ,Financial Services,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-100801,Gekix Logistics Pte Ltd,Singapore,SEA,Logistics,SMB,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,10500.0,25
+ACC-100810,Zalinun Industries K.K.,Japan,Japan,Manufacturing,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-100851,Napil Commerce Pty Ltd,Australia,ANZ,Retail,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-100879,Douvias Regional Council,Vietnam,SEA,Government,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-100889,Yepum Capital Pvt Ltd,India,India,Financial Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-100894,"Tanosis Education Co., Ltd.",,Unknown,Education,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-100895,Fupianel Public Services Authority,New Zealand,ANZ,Government,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,32500.0,25
+ACC-100910,Viasiame Consulting Pvt Ltd,India,India,Professional Services,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),137000.0,25
+ACC-100912,Tidaix Regional Council,Japan,Japan,Government,Enterprise,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-100942,Wianaigiax Stores Pty Ltd,Australia,ANZ,Retail,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,22000.0,25
+ACC-100942,Wianaigiax Stores Pty Ltd,Australia,ANZ,Retail,SMB,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,22000.0,25
+ACC-100946,"Paranoux Digital Co., Ltd.",South Korea,Korea,Software,Mid-Market,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,72000.0,25
+ACC-100994,"Fegene Systems Co., Ltd.",South Korea,Korea,Software,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,14500.0,25
+ACC-101063,Zujen Systems Sdn Bhd,Malaysia,SEA,Software,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-101070,Douyol Solutions K.K.,Japan,Japan,Professional Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-101092,PT Zigazen Stores,,Unknown,Retail,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,171500.0,25
+ACC-101143,Zogiax Public Services Authority,South Korea,Korea,Government,Enterprise,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-101147,PT Rolail Biosciences,,Unknown,Healthcare,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-101156,Riayowou Solutions JSC,,Unknown,Professional Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,23000.0,25
+ACC-101169,Zaitour Systems Pvt Ltd,India,India,Software,SMB,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,16000.0,25
+ACC-101214,Siakeidian Assurance Pty Ltd,Australia,ANZ,Financial Services,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,18500.0,25
+ACC-101238,Doutaitux Technologies Pvt Ltd,India,India,Software,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,57000.0,25
+ACC-101294,Souliabix Supply Chain K.K.,,Unknown,Logistics,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,108500.0,25
+ACC-101328,PT Jagiavous Manufacturing,Indonesia,SEA,Manufacturing,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-101335,Volos Labs Pvt Ltd,India,India,Software,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-101345,Soupes Advisory Pvt Ltd,India,India,Professional Services,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-101370,Fekiga Engineering Pty Ltd,,Unknown,Manufacturing,Enterprise,Missing Territory,High,Populate Sales_Territory from country mapping,427000.0,25
+ACC-101397,Cilukian Logistics K.K.,Japan,Japan,Logistics,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-101401,Miaduniar Freight K.K.,Japan,Japan,Logistics,SMB,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,21000.0,25
+ACC-101440,Dunezon Mart Pvt Ltd,India,India,Retail,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),0.0,25
+ACC-101463,Funawux Supply Chain K.K.,Japan,Japan,Logistics,Mid-Market,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,98500.0,25
+ACC-101477,Viborol Commerce K.K.,,Unknown,Retail,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-101524,Riaziabas Solutions K.K.,,Unknown,Professional Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-101530,Faiyirur Technologies Sdn Bhd,Malaysia,SEA,Software,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,31500.0,25
+ACC-101532,Bidias Digital Pte Ltd,,Unknown,Software,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,301500.0,25
+ACC-101557,Gibeim Medical Pvt Ltd,India,India,Healthcare,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-101578,PT Niter Commerce,Indonesia,SEA,Retail,Enterprise,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-101585,Cenetum Mart Pte Ltd,,Unknown,Retail,Enterprise,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-101600,Louziawaim Financial K.K.,Japan,Japan,Financial Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,22000.0,25
+ACC-101629,Waivi Industries Pte Ltd,Singapore,SEA,Manufacturing,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-101640,Reiziatu Capital Sdn Bhd,Malaysia,SEA,Financial Services,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-101641,Yaihaiwix Consulting Sdn Bhd,,Unknown,Professional Services,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-101643,Vagou Industries Pty Ltd,Australia,ANZ,Manufacturing,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-101646,Naleidon Financial Pvt Ltd,India,India,Financial Services,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),19500.0,25
+ACC-101653,Putelel Financial Pvt Ltd,India,India,Financial Services,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,5500.0,25
+ACC-101661,Taisus Networks Ltd,,Unknown,Telecommunications,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-101662,PT Wiagiayeis Systems,Indonesia,SEA,Software,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-101679,Debaifa Medical Pvt Ltd,India,India,Healthcare,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),0.0,25
+ACC-101695,Noupaijeir Advisory Pvt Ltd,India,India,Professional Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-101710,Pousom Labs K.K.,Japan,Japan,Software,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-101724,Wiakeis Retail Pty Ltd,Australia,ANZ,Retail,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,39000.0,25
+ACC-101780,Sawex Cloud Pvt Ltd,,Unknown,Software,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-101786,Refiam Telecom Pty Ltd,Australia,ANZ,Telecommunications,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,27000.0,25
+ACC-101797,Biacas Technologies K.K.,,Unknown,Software,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-101823,Bisinu Mart Pvt Ltd,India,India,Retail,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,6000.0,25
+ACC-101828,Gairoubeim Capital Pty Ltd,,Unknown,Financial Services,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-101833,Yecacax Partners Inc.,Philippines,SEA,Professional Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,13000.0,25
+ACC-101846,Kaiji Transport Pvt Ltd,India,India,Logistics,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-101848,Dairour Retail Pte Ltd,,Unknown,Retail,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-101878,Leipu Mart Inc.,Philippines,SEA,Retail,SMB,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,8500.0,25
+ACC-101894,Sajecas Manufacturing K.K.,Japan,Japan,Manufacturing,SMB,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,19000.0,25
+ACC-101909,Lepais Materials Pvt Ltd,India,India,Manufacturing,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-101927,Johin Assurance K.K.,Japan,Japan,Financial Services,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,178000.0,25
+ACC-101938,Molias Institute JSC,Vietnam,SEA,Education,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,10000.0,25
+ACC-101969,Couwal Commerce Pty Ltd,Australia,ANZ,Retail,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-101979,Zosel Technologies JSC,Vietnam,SEA,Software,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-102015,Viabo Logistics Pvt Ltd,,Unknown,Logistics,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,16500.0,25
+ACC-102019,Vaideso Engineering Pte Ltd,,Unknown,Manufacturing,Enterprise,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-102051,PT Himoul Labs,Indonesia,SEA,Software,SMB,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,12500.0,25
+ACC-102082,PT Duhoubo Supply Chain,,Unknown,Logistics,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,33000.0,25
+ACC-102102,Delefan Labs JSC,Vietnam,SEA,Software,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,8000.0,25
+ACC-102116,Nuhoufin Biosciences Pte Ltd,Singapore,SEA,Healthcare,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,12500.0,25
+ACC-102118,Gufekux Transport Pte Ltd,Singapore,SEA,Logistics,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,7500.0,25
+ACC-102171,Fusoyian Holdings Pvt Ltd,,Unknown,Financial Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-102179,PT Kosoul Holdings,Indonesia,SEA,Financial Services,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,14500.0,25
+ACC-102210,Heimaisia Commerce Pty Ltd,Australia,ANZ,Retail,SMB,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,6000.0,25
+ACC-102249,"Maiviras Capital Co., Ltd.",South Korea,Korea,Financial Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-102251,Tapaix Learning Sdn Bhd,,Unknown,Education,Unknown,Missing Territory,High,Populate Sales_Territory from country mapping,9500.0,25
+ACC-102258,"Yaidaija Networks Co., Ltd.",,Unknown,Telecommunications,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,58000.0,25
+ACC-102278,"Gitije Telecom Co., Ltd.",Thailand,SEA,Telecommunications,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,31500.0,25
+ACC-102306,Kainiax Solutions Pvt Ltd,India,India,Professional Services,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),0.0,25
+ACC-102314,PT Daibisun Biosciences,Indonesia,SEA,Healthcare,Unknown,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,485000.0,25
+ACC-102324,Viker Telecom Pvt Ltd,India,India,Telecommunications,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),13500.0,25
+ACC-102389,Poyawei Manufacturing Pvt Ltd,India,India,Manufacturing,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,39000.0,25
+ACC-102399,Yimam Systems Pty Ltd,,Unknown,Software,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,96500.0,25
+ACC-102441,Hiazazian Materials Sdn Bhd,Malaysia,SEA,Manufacturing,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,15000.0,25
+ACC-102449,Tatouyial Supply Chain Pty Ltd,,Unknown,Logistics,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,38000.0,25
+ACC-102452,Yialasen Networks Pvt Ltd,India,India,Telecommunications,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-102461,Jahuti Health Inc.,Philippines,SEA,Healthcare,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-102465,Legasail Regional Council,Australia,ANZ,Government,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-102499,Yofailei Digital Pty Ltd,Australia,ANZ,Software,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,23500.0,25
+ACC-102511,Hozox Labs Sdn Bhd,Malaysia,SEA,Software,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-102516,Beico Financial K.K.,,Unknown,Financial Services,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-102538,Zikal Consulting K.K.,Japan,Japan,Professional Services,Mid-Market,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,63000.0,25
+ACC-102555,"Husokiar Freight Co., Ltd.",Thailand,SEA,Logistics,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,17000.0,25
+ACC-102563,Zaicahos Institute Pvt Ltd,India,India,Education,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),15000.0,25
+ACC-102586,Haibax Institute K.K.,,Unknown,Education,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,166000.0,25
+ACC-102601,Waikai Capital Ltd,New Zealand,ANZ,Financial Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-102614,Dougar Partners Sdn Bhd,Malaysia,SEA,Professional Services,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-102615,Feiyun Capital Pvt Ltd,India,India,Financial Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-102621,Zeiduriam Networks K.K.,,Unknown,Telecommunications,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,90000.0,25
+ACC-102624,Naiveis Manufacturing Pvt Ltd,India,India,Manufacturing,Enterprise,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-102638,Baizour Partners Inc.,Philippines,SEA,Professional Services,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,65500.0,25
+ACC-102650,Sousou Cloud Pty Ltd,,Unknown,Software,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-102675,Manas Telecom Sdn Bhd,Malaysia,SEA,Telecommunications,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,30500.0,25
+ACC-102714,Rouceix Partners Ltd,New Zealand,ANZ,Professional Services,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,45500.0,25
+ACC-102721,Kidubux Assurance Pvt Ltd,India,India,Financial Services,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),14500.0,25
+ACC-102734,Boujelaix Technologies Pvt Ltd,India,India,Software,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),7000.0,25
+ACC-102787,Lobou Capital Pvt Ltd,,Unknown,Financial Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-102788,"Rouyegai Manufacturing Co., Ltd.",South Korea,Korea,Manufacturing,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,12500.0,25
+ACC-102805,PT Zipux Solutions,,Unknown,Professional Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,14500.0,25
+ACC-102816,Fipaizan Cloud Pty Ltd,,Unknown,Software,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,7500.0,25
+ACC-102818,Gobeijeis Digital Services Board,,Unknown,Government,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-102870,Hacir Advisory Pty Ltd,Australia,ANZ,Professional Services,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,18500.0,25
+ACC-102951,Seibaira Medical Pvt Ltd,India,India,Healthcare,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),153500.0,25
+ACC-102962,Kicai Medical Pvt Ltd,India,India,Healthcare,Mid-Market,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,78000.0,25
+ACC-102966,Virou Supply Chain Pvt Ltd,India,India,Logistics,Mid-Market,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,79000.0,25
+ACC-102986,Silin Capital Inc.,Philippines,SEA,Financial Services,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-102990,"Gaipox Labs Co., Ltd.",,Unknown,Software,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-103044,Duwum Advisory Pvt Ltd,,Unknown,Professional Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-103056,Lefifix Mart Ltd,New Zealand,ANZ,Retail,Enterprise,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-103068,Rouro Freight Pte Ltd,,Unknown,Logistics,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-103102,Biamiadin Consulting Pte Ltd,Singapore,SEA,Professional Services,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-103109,Maidulaix Financial,,Unknown,Financial Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-103141,Figeir Systems Pty Ltd,Australia,ANZ,Software,Enterprise,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,178500.0,25
+ACC-103143,Ceihel Medical Pvt Ltd,India,India,Healthcare,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),0.0,25
+ACC-103178,Rougidam Financial Pvt Ltd,India,India,Financial Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-103211,Bailour Digital Pvt Ltd,India,India,Software,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-103214,Jeimex Regional Council,Japan,Japan,Government,Enterprise,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,318000.0,25
+ACC-103243,Vemoyair Materials Pvt Ltd,India,India,Manufacturing,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),0.0,25
+ACC-103245,Yumeinax Cloud K.K.,Japan,Japan,Software,SMB,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,30000.0,25
+ACC-103251,"Biakom Systems Co., Ltd.",,Unknown,Software,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-103284,Ziavimin Partners Pvt Ltd,India,India,Professional Services,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-103294,Neizabin Technologies K.K.,Japan,Japan,Software,Mid-Market,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,108500.0,25
+ACC-103332,Losis Communications Ltd,New Zealand,ANZ,Telecommunications,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,64000.0,25
+ACC-103340,Bozan Care Pvt Ltd,India,India,Healthcare,Mid-Market,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,39500.0,25
+ACC-103346,Duvokoum Financial Pte Ltd,Singapore,SEA,Financial Services,Enterprise,Missing Territory,High,Populate Sales_Territory from country mapping,308500.0,25
+ACC-103358,Peirohex Assurance Sdn Bhd,Malaysia,SEA,Financial Services,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,21000.0,25
+ACC-103389,Deyen Regional Council,Indonesia,SEA,Government,Mid-Market,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,64000.0,25
+ACC-103397,Bineiyias Biosciences Pvt Ltd,India,India,Healthcare,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),0.0,25
+ACC-103405,Fucaidiax Solutions Pvt Ltd,India,India,Professional Services,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-103407,Vodom Industries K.K.,Japan,Japan,Manufacturing,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-103421,Fayan Labs Pte Ltd,Singapore,SEA,Software,SMB,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,31000.0,25
+ACC-103425,"Maibol Academy Co., Ltd.",Thailand,SEA,Education,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-103426,Tiariayei Digital Services Board,India,India,Government,Mid-Market,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,16500.0,25
+ACC-103442,Douziakair Holdings Pvt Ltd,India,India,Financial Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,13500.0,25
+ACC-103476,Teidas Regional Council,India,India,Government,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-103478,Sozei Manufacturing K.K.,,Unknown,Manufacturing,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-103491,PT Neizaipux Retail,,Unknown,Retail,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-103517,Gougoceir Mart JSC,Vietnam,SEA,Retail,SMB,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,11500.0,25
+ACC-103526,Haicai Transport Pvt Ltd,,Unknown,Logistics,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,30000.0,25
+ACC-103532,"Yuyol Systems Co., Ltd.",,Unknown,Software,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-103541,Secel Education Inc.,Philippines,SEA,Education,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-103548,Douvias Regional Council,Vietnam,SEA,Government,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-103553,Wizias Solutions Inc.,Philippines,SEA,Professional Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-103556,Rufon Holdings JSC,,Unknown,Financial Services,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-103605,Zaiko Materials K.K.,Japan,Japan,Manufacturing,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-103623,Heigex Labs Pte Ltd,,Unknown,Software,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,23000.0,25
+ACC-103633,Wiase Retail Pvt Ltd,India,India,Retail,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-103635,Sezusou Stores Pty Ltd,Australia,ANZ,Retail,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-103660,PT Bawos Stores,Indonesia,SEA,Retail,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-103665,Feroul Mart Sdn Bhd,Malaysia,SEA,Retail,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-103670,Veisaiyaix Medical Pty Ltd,Australia,ANZ,Healthcare,Enterprise,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,205000.0,25
+ACC-103696,Keineis Mart K.K.,Japan,Japan,Retail,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-103702,Teiyiafom Industries Sdn Bhd,Malaysia,SEA,Manufacturing,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-103710,Zaiyiyiam Labs Pty Ltd,Australia,ANZ,Software,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,10500.0,25
+ACC-103718,Tomes Health Sdn Bhd,Malaysia,SEA,Healthcare,Mid-Market,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,50000.0,25
+ACC-103818,Tiapafel Systems Pvt Ltd,India,India,Software,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),4500.0,25
+ACC-103820,Roumeibein Systems Pvt Ltd,India,India,Software,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),0.0,25
+ACC-103849,"Bibei Solutions Co., Ltd.",Thailand,SEA,Professional Services,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-103869,Budiano Cloud K.K.,Japan,Japan,Software,SMB,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,20000.0,25
+ACC-103871,Jerex Cloud Ltd,,Unknown,Software,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-103912,Yoditan Medical Pvt Ltd,India,India,Healthcare,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-103934,Moudux Holdings Pty Ltd,Australia,ANZ,Financial Services,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-103937,Raiheim Regional Council,Australia,ANZ,Government,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-103968,Maibaijum Biosciences Pte Ltd,Singapore,SEA,Healthcare,SMB,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,8500.0,25
+ACC-103970,Tugiasou Industries Pte Ltd,Singapore,SEA,Manufacturing,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,6500.0,25
+ACC-103971,"Koutuhail Advisory Co., Ltd.",Thailand,SEA,Professional Services,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-103991,Gaicas Engineering K.K.,Japan,Japan,Manufacturing,Mid-Market,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,78500.0,25
+ACC-104027,Memacais Digital Pvt Ltd,,Unknown,Software,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-104035,Zeigaimiax Manufacturing K.K.,,Unknown,Manufacturing,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,117000.0,25
+ACC-104049,Gidei Retail Inc.,Philippines,SEA,Retail,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,156500.0,25
+ACC-104051,Cikouco Manufacturing Pty Ltd,Australia,ANZ,Manufacturing,SMB,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,15000.0,25
+ACC-104069,Haiseikias Technologies Pvt Ltd,India,India,Software,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,11000.0,25
+ACC-104074,Saibuheir Industries Sdn Bhd,,Unknown,Manufacturing,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,155000.0,25
+ACC-104120,PT Ralus Systems,,Unknown,Software,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-104126,"Seiriam Materials Co., Ltd.",South Korea,Korea,Manufacturing,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-104150,"Koutin Biosciences Co., Ltd.",South Korea,Korea,Healthcare,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-104153,Zoures Industries Sdn Bhd,,Unknown,Manufacturing,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,13500.0,25
+ACC-104168,Dailitoun Manufacturing K.K.,Japan,Japan,Manufacturing,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,10500.0,25
+ACC-104192,Keimitix Commerce K.K.,Japan,Japan,Retail,SMB,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,13500.0,25
+ACC-104212,Jonim Commerce K.K.,,Unknown,Retail,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-104244,Meizeigo Assurance Pty Ltd,Australia,ANZ,Financial Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,14000.0,25
+ACC-104296,PT Dajal Health,Indonesia,SEA,Healthcare,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-104319,Jabor Transport JSC,Vietnam,SEA,Logistics,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-104321,Teijia Advisory JSC,Vietnam,SEA,Professional Services,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-104333,Yiwain Cloud Pvt Ltd,India,India,Software,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-104360,Jaijaimiax Industries K.K.,Japan,Japan,Manufacturing,SMB,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,4500.0,25
+ACC-104374,Geigedar Labs K.K.,Japan,Japan,Software,SMB,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,21500.0,25
+ACC-104387,Meidiaveil Systems Pty Ltd,,Unknown,Software,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,20000.0,25
+ACC-104388,Viasahi Digital Services Board,New Zealand,ANZ,Government,Mid-Market,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,65500.0,25
+ACC-104389,Tiawageir Labs Pvt Ltd,India,India,Software,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,14500.0,25
+ACC-104394,Siyais Biosciences JSC,Vietnam,SEA,Healthcare,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-104399,PT Sihejen Freight,Indonesia,SEA,Logistics,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-104426,PT Bejogei Academy,Indonesia,SEA,Education,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-104450,Paijei Manufacturing Pvt Ltd,India,India,Manufacturing,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,40500.0,25
+ACC-104477,"Hiasefai Advisory Co., Ltd.",,Unknown,Professional Services,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-104490,Cegum Transport K.K.,Japan,Japan,Logistics,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-104506,Saifebaim Telecom K.K.,,Unknown,Telecommunications,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-104515,"Vevouvax Manufacturing Co., Ltd.",South Korea,Korea,Manufacturing,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-104556,Mujais Retail Pvt Ltd,,Unknown,Retail,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,6500.0,25
+ACC-104559,Deihex Solutions Pvt Ltd,India,India,Professional Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-104593,"Yeigian Cloud Co., Ltd.",South Korea,Korea,Software,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-104659,"Giapal Cloud Co., Ltd.",Thailand,SEA,Software,Mid-Market,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,70000.0,25
+ACC-104667,Zeiria Systems JSC,,Unknown,Software,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-104695,Reboum Advisory Pvt Ltd,India,India,Professional Services,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),0.0,25
+ACC-104724,PT Taigeir Assurance,,Unknown,Financial Services,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,77500.0,25
+ACC-104725,Cofeipa Advisory JSC,APAC,Unknown,Professional Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-104731,Ceicoum Retail Inc.,Philippines,SEA,Retail,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-104744,"Suvoupes Networks Co., Ltd.",,Unknown,Telecommunications,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,29000.0,25
+ACC-104745,Paitaim Financial Pvt Ltd,India,India,Financial Services,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),9000.0,25
+ACC-104759,PT Nuhougou Holdings,Indonesia,SEA,Financial Services,Enterprise,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,0.0,25
+ACC-104785,Macakeix Health Pvt Ltd,India,India,Healthcare,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),0.0,25
+ACC-104800,PT Peilil Assurance,,Unknown,Financial Services,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,76500.0,25
+ACC-104850,Guyil Engineering K.K.,Japan,Japan,Manufacturing,Mid-Market,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,70000.0,25
+ACC-104875,Ronim Digital JSC,Vietnam,SEA,Software,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,13000.0,25
+ACC-104914,Jougul Networks Pty Ltd,,Unknown,Telecommunications,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-104924,Losous Engineering K.K.,Japan,Japan,Manufacturing,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-104929,Ciaha Holdings Pvt Ltd,India,India,Financial Services,SMB,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-104951,Neileir Education Pvt Ltd,India,India,Education,SMB,Invalid Territory,High,Correct territory to Expected_Territory and reassign owner,5000.0,25
+ACC-104955,Fowafa Industries Pvt Ltd,India,India,Manufacturing,Mid-Market,Stale Account,High,Sales to re-engage or mark Inactive; review open opportunities,53500.0,25
+ACC-104965,Nocom Manufacturing Pvt Ltd,India,India,Manufacturing,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),0.0,25
+ACC-104968,Kiatahu Academy Pvt Ltd,India,India,Education,Mid-Market,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-104991,Gougas Industries K.K.,Japan,Japan,Manufacturing,Enterprise,Missing Territory,High,Populate Sales_Territory from country mapping,0.0,25
+ACC-104995,Doukoux Retail Pvt Ltd,India,India,Retail,Unknown,Missing Employee Count,High,Enrich headcount (needed for tiering and India owner routing),65000.0,25
+ACC-100023,Ciazia Cloud Pvt Ltd,India,India,Software,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-100041,Gadoux Holdings Pty Ltd,Australia,ANZ,Financial Services,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,11500.0,10
+ACC-100045,PT Hocaife Technologies,Indonesia,SEA,Software,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-100046,Coufihi Holdings Inc.,Philippines,SEA,Financial Services,Enterprise,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-100050,Bougafias Transport Sdn Bhd,Malaysia,SEA,Logistics,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,16500.0,10
+ACC-100063,Dekeyail Cloud K.K.,Japan,Japan,Software,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-100091,Papeidan Cloud Pty Ltd,Australia,ANZ,Software,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-100097,Ceigir Industries Pvt Ltd,India,India,Manufacturing,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-100104,Diloukim Materials K.K.,Japan,Japan,Manufacturing,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,29000.0,10
+ACC-100118,Goukur Engineering Pty Ltd,Australia,ANZ,Manufacturing,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,80000.0,10
+ACC-100149,"Nihamia Retail Co., Ltd.",South Korea,Korea,Retail,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-100151,Touwokas Institute Pty Ltd,Australia,ANZ,Education,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-100155,Yegouzu Partners Pty Ltd,Australia,ANZ,Professional Services,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-100169,Vijeigia Holdings Pvt Ltd,India,India,Financial Services,Unknown,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,64000.0,10
+ACC-100171,"Hafovul Mart Co., Ltd.",South Korea,Korea,Retail,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-100176,Diziato Labs K.K.,Japan,Japan,Software,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-100204,Zeiwa Systems Private Limited,India,India,Software,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-100208,Beitujil Holdings K.K.,Japan,Japan,Financial Services,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-100213,"Ziyacu Institute Co., Ltd.",South Korea,Korea,Education,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,10500.0,10
+ACC-100246,Mikei Public Services Authority,India,India,Government,SMB,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-100248,Rumein Consulting Pvt Ltd,India,India,Professional Services,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-100291,Paiyiadix Commerce Pty Ltd,Australia,ANZ,Retail,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-100326,Racapeir Transport K.K.,Japan,Japan,Logistics,SMB,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-100328,Bulouvax Mart Sdn Bhd,Malaysia,SEA,Retail,SMB,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-100359,"Mupoum Medical Co., Ltd.",South Korea,Korea,Healthcare,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-100363,Ceifayan Medical Pvt Ltd,India,India,Healthcare,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,8500.0,10
+ACC-100368,Roupu Financial Inc.,Philippines,SEA,Financial Services,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-100368,Roupu Financial Inc.,Philippines,SEA,Financial Services,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-100372,Wesetian Capital Pty Ltd,Australia,ANZ,Financial Services,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-100378,"Naitoweil Biosciences Co., Ltd.",South Korea,Korea,Healthcare,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),33500.0,10
+ACC-100385,Yougem Holdings Inc.,Philippines,SEA,Financial Services,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-100397,Daikouheir Commerce Pty Ltd,Australia,ANZ,Retail,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),35000.0,10
+ACC-100404,Gosaten Technologies Pvt Ltd,India,India,Software,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-100406,Lereidaim Materials JSC,Vietnam,SEA,Manufacturing,Mid-Market,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-100425,"Wajiatai Technologies Co., Ltd.",South Korea,Korea,Software,Mid-Market,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-100437,Maiyol Partners Pvt Ltd,India,India,Professional Services,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-100447,Novokais Stores Ltd,New Zealand,ANZ,Retail,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-100450,Munuhain Capital Pvt Ltd,India,India,Financial Services,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,8000.0,10
+ACC-100468,Deisiarun Cloud Sdn Bhd,Malaysia,SEA,Software,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-100473,Kaihi Mart Pty Ltd,Australia,ANZ,Retail,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-100478,Dejeifo Commerce K.K.,Japan,Japan,Retail,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-100509,Kawecous Industries Pte Ltd,Singapore,SEA,Manufacturing,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-100522,Natar Telecom K.K.,Japan,Japan,Telecommunications,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-100526,Zefom Academy Pty Ltd,Australia,ANZ,Education,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-100531,Cotour Holdings K.K.,Japan,Japan,Financial Services,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-100544,Tajia Industries Pte Ltd,Singapore,SEA,Manufacturing,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-100554,Wamialia Medical Ltd,New Zealand,ANZ,Healthcare,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,10000.0,10
+ACC-100559,Caibosiam Industries Pvt Ltd,India,India,Manufacturing,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-100563,Meimaix Technologies Ltd,New Zealand,ANZ,Software,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,134000.0,10
+ACC-100585,Keifian Public Services Authority,Japan,Japan,Government,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-100611,"Bapapem Telecom Co., Ltd.",South Korea,Korea,Telecommunications,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-100617,Mouyain Commerce K.K.,Japan,Japan,Retail,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-100621,"Geria Partners Co., Ltd.",Thailand,SEA,Professional Services,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-100632,Soubaria Freight Pty Ltd,Australia,ANZ,Logistics,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-100637,"Ziakediar Holdings Co., Ltd.",South Korea,Korea,Financial Services,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-100664,PT Hucis Health,Indonesia,SEA,Healthcare,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-100668,Wusaijas Partners Sdn Bhd,Malaysia,SEA,Professional Services,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-100688,Yiafe Assurance JSC,Vietnam,SEA,Financial Services,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,47000.0,10
+ACC-100704,PT Sekiasim Health,Indonesia,SEA,Healthcare,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-100707,Tuwol Consulting Pvt Ltd,India,India,Professional Services,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-100724,PT Hitaitian Mart,Indonesia,SEA,Retail,Enterprise,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,373000.0,10
+ACC-100742,Dameimour Digital Pty Ltd,Australia,ANZ,Software,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-100778,Ceiyasoul Engineering JSC,Vietnam,SEA,Manufacturing,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-100814,Cajipis Assurance K.K.,Japan,Japan,Financial Services,Mid-Market,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-100845,Bezaipum Cloud Pte Ltd,Singapore,SEA,Software,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-100851,Napil Commerce Pty Ltd,Australia,ANZ,Retail,SMB,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-100855,Seipan Manufacturing Pvt Ltd,India,India,Manufacturing,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-100858,PT Viliasoul Materials,Indonesia,SEA,Manufacturing,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-100904,Zeidias Care Pty Ltd,Australia,ANZ,Healthcare,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-100923,Lucecai Logistics JSC,Vietnam,SEA,Logistics,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-100926,Zojaila Holdings JSC,Vietnam,SEA,Financial Services,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-100937,Gaimes Digital Services Board,Australia,ANZ,Government,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-100938,Nowupei Retail Inc.,Philippines,SEA,Retail,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-100952,Doweijan Digital Pty Ltd,Australia,ANZ,Software,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-100954,Gifiase Industries K.K.,Japan,Japan,Manufacturing,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-100967,"Vonuniam Commerce Co., Ltd.",South Korea,Korea,Retail,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,14500.0,10
+ACC-100969,Rouwufel Assurance K.K.,Japan,Japan,Financial Services,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),13500.0,10
+ACC-100982,Jaihim Solutions Pvt Ltd,India,India,Professional Services,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-100992,Naiba Retail Pty Ltd,Australia,ANZ,Retail,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-101003,Peitepeix Institute Pte Ltd,Singapore,SEA,Education,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-101012,Puril Education Pty Ltd,Australia,ANZ,Education,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,19000.0,10
+ACC-101019,Laiconaix Partners Inc.,Philippines,SEA,Professional Services,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),16500.0,10
+ACC-101029,PT Kiasozais Capital,Indonesia,SEA,Financial Services,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-101034,PT Yuboulem Manufacturing,Indonesia,SEA,Manufacturing,SMB,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-101038,Zasur Partners Pty Ltd,Australia,ANZ,Professional Services,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-101067,"Mavomou Digital Co., Ltd.",Thailand,SEA,Software,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,9500.0,10
+ACC-101077,Neyax Biosciences Pty Ltd,Australia,ANZ,Healthcare,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-101081,Jiafil Assurance Ltd,New Zealand,ANZ,Financial Services,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-101083,Yejer Stores Pvt Ltd,,Unknown,Retail,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-101090,PT Sounain Mart,Indonesia,SEA,Retail,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,11000.0,10
+ACC-101110,Houzal Digital Pty Ltd,Australia,ANZ,Software,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,17000.0,10
+ACC-101118,Nucal Retail Pte Ltd,Singapore,SEA,Retail,Enterprise,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,361500.0,10
+ACC-101118,Nucal Retail Pte Ltd,Singapore,SEA,Retail,Enterprise,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,361500.0,10
+ACC-101131,PT Feize Industries,Indonesia,SEA,Manufacturing,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-101140,Rofia Public Services Authority,India,India,Government,Enterprise,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-101149,Wibicur Cloud Pte Ltd,Singapore,SEA,Software,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),15500.0,10
+ACC-101159,Zouru Public Services Authority,South Korea,Korea,Government,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-101192,PT Leivaix Materials,Indonesia,SEA,Manufacturing,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-101204,PT Nicair Manufacturing,Indonesia,SEA,Manufacturing,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),13500.0,10
+ACC-101209,"Ruren Labs Co., Ltd.",South Korea,Korea,Software,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-101214,Siakeidian Assurance Pty Ltd,Australia,ANZ,Financial Services,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,18500.0,10
+ACC-101216,Failei Capital Pvt Ltd,India,India,Financial Services,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,49000.0,10
+ACC-101216,Failei Capital Pvt Ltd,India,India,Financial Services,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,49000.0,10
+ACC-101228,Beiniamos Technologies Inc.,Philippines,SEA,Software,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,27500.0,10
+ACC-101241,Jazoun Systems JSC,Vietnam,SEA,Software,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-101251,Zowus Labs K.K.,Japan,Japan,Software,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-101254,Keilakel Mart Pty Ltd,Australia,ANZ,Retail,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-101263,Mialeihoun Telecom Sdn Bhd,Malaysia,SEA,Telecommunications,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-101283,Haiwairain Logistics Pvt Ltd,India,India,Logistics,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-101292,Youhaga Supply Chain Ltd,New Zealand,ANZ,Logistics,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-101295,Tugakous Consulting Pty Ltd,Australia,ANZ,Professional Services,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-101298,Vilor Networks Pvt Ltd,India,India,Telecommunications,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,21500.0,10
+ACC-101299,Wunezan Assurance Pty Ltd,Australia,ANZ,Financial Services,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-101304,Viayar Education Pte Ltd,Singapore,SEA,Education,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),71000.0,10
+ACC-101308,Moukouteis Digital K.K.,Japan,Japan,Software,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-101313,PT Nougaipiar Systems,Indonesia,SEA,Software,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,7000.0,10
+ACC-101319,Hajudax Manufacturing Pvt Ltd,India,India,Manufacturing,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-101346,Piavekel Labs Pty Ltd,Australia,ANZ,Software,Enterprise,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-101347,Rulaboun Cloud K.K.,Japan,Japan,Software,Enterprise,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-101371,PT Sucabian Financial,Indonesia,SEA,Financial Services,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-101375,"Teifojox Academy Co., Ltd.",South Korea,Korea,Education,Mid-Market,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-101395,Hurir Materials Inc.,Philippines,SEA,Manufacturing,SMB,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-101399,"Haicainol Mart Co., Ltd.",South Korea,Korea,Retail,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-101400,Rouyo Medical JSC,Vietnam,SEA,Healthcare,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,8500.0,10
+ACC-101461,Youpuwoux Industries K.K.,Japan,Japan,Manufacturing,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-101469,Nekuwom Financial Pvt Ltd,India,India,Financial Services,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-101472,Cozeil Institute Pvt Ltd,India,India,Education,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-101491,Noudeimin Regional Council,Philippines,SEA,Government,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),7500.0,10
+ACC-101505,"Reicun Financial Co., Ltd.",Thailand,SEA,Financial Services,Enterprise,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-101507,PT Vureja Industries,Indonesia,SEA,Manufacturing,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-101515,PT Rugoroul Industries,Indonesia,SEA,Manufacturing,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-101522,Liazou Solutions K.K.,Japan,Japan,Professional Services,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-101535,Jousu Holdings Pty Ltd,Australia,ANZ,Financial Services,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-101540,Kenur Assurance K.K.,Japan,Japan,Financial Services,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-101566,Wotoul Learning JSC,Vietnam,SEA,Education,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,69500.0,10
+ACC-101572,"Rafaix Transport Co., Ltd.",Thailand,SEA,Logistics,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),113500.0,10
+ACC-101582,Gairein Partners Pty Ltd,Australia,ANZ,Professional Services,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-101585,Cenetum Mart Pte Ltd,,Unknown,Retail,Enterprise,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-101612,Heyum Assurance Inc.,Philippines,SEA,Financial Services,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-101620,PT Sohafoun Technologies,Indonesia,SEA,Software,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-101665,Siaro Partners JSC,Vietnam,SEA,Professional Services,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-101674,PT Rofeibor Capital,Indonesia,SEA,Financial Services,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-101680,Hucudiax Systems K.K.,Japan,Japan,Software,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-101687,Jiyeis Mart K.K.,Japan,Japan,Retail,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,147500.0,10
+ACC-101689,Pounair Capital Pte Ltd,Singapore,SEA,Financial Services,SMB,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-101690,"Yabei Solutions Co., Ltd.",Thailand,SEA,Professional Services,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-101714,Jiagaiceir Commerce Inc.,Philippines,SEA,Retail,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-101721,"Fuyouru Care Co., Ltd.",Thailand,SEA,Healthcare,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-101723,Wiahudei Retail Pty Ltd,Australia,ANZ,Retail,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-101728,Poumialou Biosciences Pvt Ltd,India,India,Healthcare,SMB,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-101738,Yobor Public Services Authority,India,India,Government,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-101741,"Kuvis Solutions Co., Ltd.",South Korea,Korea,Professional Services,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-101755,PT Jiacazer Systems,Indonesia,SEA,Software,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-101765,Zaihugeis Cloud Pte Ltd,Singapore,SEA,Software,Enterprise,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-101781,Wikaihum Holdings Pty Ltd,Australia,ANZ,Financial Services,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),85000.0,10
+ACC-101797,Biacas Technologies K.K.,,Unknown,Software,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-101814,Parum Regional Council,Australia,ANZ,Government,SMB,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-101814,Parum Regional Council,Australia,ANZ,Government,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-101820,Sapias Financial Pvt Ltd,India,India,Financial Services,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-101821,Viarul Solutions Pvt Ltd,India,India,Professional Services,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-101825,Geisidel Transport Pty Ltd,Australia,ANZ,Logistics,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,63500.0,10
+ACC-101827,Raisehom Cloud K.K.,Japan,Japan,Software,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-101832,Siagerom Systems Pte Ltd,Singapore,SEA,Software,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),19000.0,10
+ACC-101845,Gaisiaheix Health K.K.,Japan,Japan,Healthcare,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-101847,PIAVEKEL LABS PTY LTD,Australia,ANZ,Software,Enterprise,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-101848,Dairour Retail Pte Ltd,,Unknown,Retail,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-101868,"Joukial Digital Co., Ltd.",South Korea,Korea,Software,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-101873,Bohoufei Supply Chain JSC,Vietnam,SEA,Logistics,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,5500.0,10
+ACC-101874,Hetox Capital Pvt Ltd,India,India,Financial Services,Enterprise,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-101905,Feidou Partners K.K.,Japan,Japan,Professional Services,Enterprise,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-101914,Joutem Industries K.K.,Japan,Japan,Manufacturing,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),136000.0,10
+ACC-101923,Koupein Digital Ltd,New Zealand,ANZ,Software,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-101928,Veiheix Public Services Authority,Australia,ANZ,Government,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-101945,Keico Care Pvt Ltd,India,India,Healthcare,Enterprise,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-101964,Wojipus Learning K.K.,Japan,Japan,Education,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-101966,PT Rugoroul Industries,Indonesia,SEA,Manufacturing,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-101996,Diatesum Biosciences K.K.,Japan,Japan,Healthcare,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,71000.0,10
+ACC-102018,Couliajial Regional Council,Japan,Japan,Government,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-102042,Baiceifom Partners Pty Ltd,Australia,ANZ,Professional Services,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-102051,PT Himoul Labs,Indonesia,SEA,Software,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,12500.0,10
+ACC-102054,Yiagikail Logistics K.K.,Japan,Japan,Logistics,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-102112,Vumigi Systems Ltd,New Zealand,ANZ,Software,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),34500.0,10
+ACC-102124,Fiahoto Capital JSC,Vietnam,SEA,Financial Services,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-102127,Vokal Care Pte Ltd,Singapore,SEA,Healthcare,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-102128,"Raimelur Solutions Co., Ltd.",Thailand,SEA,Professional Services,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,6500.0,10
+ACC-102139,"Yeron Biosciences Co., Ltd.",South Korea,Korea,Healthcare,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-102164,Vianom Mart Pty Ltd,Australia,ANZ,Retail,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-102169,Zerun Advisory Pty Ltd,Australia,ANZ,Professional Services,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-102190,"Zeiza Health Co., Ltd.",South Korea,Korea,Healthcare,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-102198,Jadoujiar Medical Pty Ltd,Australia,ANZ,Healthcare,SMB,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-102213,Famuwei Labs Pvt Ltd,India,India,Software,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-102251,Tapaix Learning Sdn Bhd,,Unknown,Education,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),9500.0,10
+ACC-102253,Ragaizeir Advisory Pvt Ltd,India,India,Professional Services,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-102260,Jimes Solutions Pty Ltd,Australia,ANZ,Professional Services,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-102293,Podiacul Cloud Pte Ltd,Singapore,SEA,Software,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-102299,Kafokail Digital Pvt Ltd,India,India,Software,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-102314,PT Daibisun Biosciences,Indonesia,SEA,Healthcare,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),485000.0,10
+ACC-102345,Leiraiwei Networks Pte Ltd,Singapore,SEA,Telecommunications,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-102352,Jiali Mart Pvt Ltd,India,India,Retail,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-102396,PT Jijir Engineering,Indonesia,SEA,Manufacturing,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-102401,"Liaco Telecom Co., Ltd.",Thailand,SEA,Telecommunications,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-102415,"Komom Technologies Co., Ltd.",Thailand,SEA,Software,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-102448,Worum Digital Pvt Ltd,India,India,Software,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-102464,"Raiduso Cloud Co., Ltd.",South Korea,Korea,Software,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,13000.0,10
+ACC-102471,Nores Engineering Pty Ltd,Australia,ANZ,Manufacturing,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-102474,Tezia Engineering Pty Ltd,Australia,ANZ,Manufacturing,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,37500.0,10
+ACC-102501,Podex Telecom Pvt Ltd,India,India,Telecommunications,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-102505,PT Cuner Consulting,Indonesia,SEA,Professional Services,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-102509,Lesecos Cloud Sdn Bhd,Malaysia,SEA,Software,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-102515,Zowias Consulting Pty Ltd,Australia,ANZ,Professional Services,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,170500.0,10
+ACC-102529,"Totuten Systems Co., Ltd.",Thailand,SEA,Software,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-102540,Touvorir Technologies Pvt Ltd,India,India,Software,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-102541,PT Feinas Stores,Indonesia,SEA,Retail,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-102546,"Miacelar Health Co., Ltd.",South Korea,Korea,Healthcare,SMB,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-102565,PT Saseireim Assurance,Indonesia,SEA,Financial Services,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-102566,Yiafux Transport K.K.,Japan,Japan,Logistics,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-102569,Satos Assurance Pty Ltd,Australia,ANZ,Financial Services,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-102612,Javotir Freight K.K.,Japan,Japan,Logistics,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-102618,Yiyun Labs Pty Ltd,Australia,ANZ,Software,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-102621,Zeiduriam Networks K.K.,,Unknown,Telecommunications,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,90000.0,10
+ACC-102640,Yopoun Labs Pvt Ltd,India,India,Software,SMB,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-102683,Tegolei Manufacturing K.K.,Japan,Japan,Manufacturing,Enterprise,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-102697,Maidouji Advisory K.K.,Japan,Japan,Professional Services,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-102723,Veideihin Holdings K.K.,Japan,Japan,Financial Services,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,13000.0,10
+ACC-102724,Roubece Assurance Pvt Ltd,India,India,Financial Services,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-102741,Deijawex Advisory Pty Ltd,Australia,ANZ,Professional Services,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-102749,Neizix Engineering Inc.,Philippines,SEA,Manufacturing,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,86000.0,10
+ACC-102791,PT Moukalur Industries,Indonesia,SEA,Manufacturing,SMB,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-102812,Vihia Telecom Pty Ltd,Australia,ANZ,Telecommunications,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,18000.0,10
+ACC-102820,Jaicai Manufacturing Pty Ltd,Australia,ANZ,Manufacturing,Enterprise,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-102824,Fapajoun Systems K.K.,Japan,Japan,Software,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-102826,Fucei Systems Ltd,New Zealand,ANZ,Software,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-102830,Sowir Care Inc.,Philippines,SEA,Healthcare,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,94500.0,10
+ACC-102849,Nores Engineering Pty. Ltd.,Australia,ANZ,Manufacturing,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-102853,Leipial Advisory Inc.,Philippines,SEA,Professional Services,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-102854,Nobihon Consulting Pte Ltd,Singapore,SEA,Professional Services,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),4000.0,10
+ACC-102867,PT Zijoucein Systems,Indonesia,SEA,Software,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,14000.0,10
+ACC-102877,Gusail Materials K.K.,Japan,Japan,Manufacturing,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,21000.0,10
+ACC-102894,Beseix Materials Ltd,New Zealand,ANZ,Manufacturing,SMB,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-102895,Ceifim Learning Pvt Ltd,India,India,Education,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-102924,Zulaisim Engineering JSC,Vietnam,SEA,Manufacturing,Enterprise,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-102942,Cugiabus Technologies K.K.,Japan,Japan,Software,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-102955,Bianaitil Learning K.K.,Japan,Japan,Education,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-102956,Jaiwakia Financial Pte Ltd,Singapore,SEA,Financial Services,Enterprise,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-102962,Kicai Medical Pvt Ltd,India,India,Healthcare,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,78000.0,10
+ACC-103003,Beideix Holdings Pvt Ltd,India,India,Financial Services,Enterprise,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,623500.0,10
+ACC-103005,Wiajuweis Partners Inc.,,Unknown,Professional Services,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-103021,Fiyehoux Communications Pty Ltd,Australia,ANZ,Telecommunications,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,9500.0,10
+ACC-103032,Wuler Systems K.K.,Japan,Japan,Software,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,56000.0,10
+ACC-103058,Laigobar Financial K.K.,Japan,Japan,Financial Services,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103061,Citun Care Pty Ltd,Australia,ANZ,Healthcare,Enterprise,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-103085,"Meidufil Commerce Co., Ltd.",South Korea,Korea,Retail,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103092,PT Vecaseir Digital,Indonesia,SEA,Software,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103110,Deibego Assurance JSC,Vietnam,SEA,Financial Services,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-103132,Haipiadex Manufacturing K.K.,Japan,Japan,Manufacturing,Enterprise,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103139,Jairim Learning Sdn Bhd,Malaysia,SEA,Education,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),135000.0,10
+ACC-103157,Muguroux Financial Inc.,Philippines,SEA,Financial Services,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,26000.0,10
+ACC-103160,Tijiho Solutions Pte Ltd,Singapore,SEA,Professional Services,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),10500.0,10
+ACC-103186,Ruhouyias Biosciences Pte Ltd,Singapore,SEA,Healthcare,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103188,Jezewum Medical Pty Ltd,Australia,ANZ,Healthcare,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103205,Soyom Medical Pvt Ltd,India,India,Healthcare,Enterprise,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-103218,Coubasiar Financial Pvt Ltd,India,India,Financial Services,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,26500.0,10
+ACC-103223,Rogeiju Materials Pty Ltd,Australia,ANZ,Manufacturing,Enterprise,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-103223,Rogeiju Materials Pty Ltd,Australia,ANZ,Manufacturing,Enterprise,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103228,"Boumiazeir Commerce Co., Ltd.",South Korea,Korea,Retail,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-103241,Rofefox Retail K.K.,Japan,Japan,Retail,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-103245,Yumeinax Cloud K.K.,Japan,Japan,Software,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,30000.0,10
+ACC-103248,Zoukouzain Health Pty Ltd,Australia,ANZ,Healthcare,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-103256,Kenel Academy Pty Ltd,Australia,ANZ,Education,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),25000.0,10
+ACC-103259,Leijeibiax Advisory Sdn Bhd,Malaysia,SEA,Professional Services,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103264,Yaibul Biosciences Pte Ltd,Singapore,SEA,Healthcare,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-103268,Mijiceil Cloud Pvt Ltd,India,India,Software,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103293,"Panan Care Co., Ltd.",South Korea,Korea,Healthcare,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,18000.0,10
+ACC-103354,Vawour Institute K.K.,Japan,Japan,Education,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103363,Mowehor Networks Pvt Ltd,India,India,Telecommunications,Enterprise,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103372,"Ciaval Systems Co., Ltd.",South Korea,Korea,Software,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103380,Faikoumam Mart JSC,Vietnam,SEA,Retail,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103394,Jefem Networks Pvt Ltd,India,India,Telecommunications,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,36000.0,10
+ACC-103428,Setum Public Services Authority,Malaysia,SEA,Government,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-103435,Fokiayar Solutions K.K.,Japan,Japan,Professional Services,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-103452,Peiyeim Systems Pvt Ltd,India,India,Software,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103468,Kiacairi Industries JSC,Vietnam,SEA,Manufacturing,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103473,Tonebil Industries Pvt Ltd,India,India,Manufacturing,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-103485,Zefur Engineering Pvt Ltd,India,India,Manufacturing,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,18000.0,10
+ACC-103519,Fiafein Technologies K.K.,Japan,Japan,Software,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-103520,Yayale Stores Inc.,Philippines,SEA,Retail,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-103521,Seibia Retail K.K.,Japan,Japan,Retail,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-103522,Ceziavous Engineering JSC,Vietnam,SEA,Manufacturing,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,24500.0,10
+ACC-103530,Sejewas Institute Pty Ltd,,Unknown,Education,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-103536,"Wiawamei Consulting Co., Ltd.",Thailand,SEA,Professional Services,SMB,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-103543,Siahuyar Systems Pvt Ltd,India,India,Software,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103550,Waileivo Biosciences Pty Ltd,Australia,ANZ,Healthcare,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,52500.0,10
+ACC-103556,Rufon Holdings JSC,,Unknown,Financial Services,Mid-Market,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-103563,Modougaim Retail Sdn Bhd,Malaysia,SEA,Retail,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,115500.0,10
+ACC-103579,PT Yoyiaham Freight,Indonesia,SEA,Logistics,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,17500.0,10
+ACC-103583,Kouyiam Systems Pty Ltd,Australia,ANZ,Software,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-103587,"Voujeikour Manufacturing Co., Ltd.",South Korea,Korea,Manufacturing,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103590,"Jouwouve Systems Co., Ltd.",Thailand,SEA,Software,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-103590,"Jouwouve Systems Co., Ltd.",Thailand,SEA,Software,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103606,PT Yiabeix Networks,Indonesia,SEA,Telecommunications,Enterprise,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-103610,Leihadom Biosciences JSC,Vietnam,SEA,Healthcare,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-103617,Miniatem Advisory Pvt Ltd,India,India,Professional Services,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103644,PT Cenukoum Academy,Indonesia,SEA,Education,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-103651,Carajaix Supply Chain Pty Ltd,Australia,ANZ,Logistics,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-103669,Risefim Supply Chain Pvt Ltd,India,India,Logistics,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,22500.0,10
+ACC-103684,Zairotim Technologies K.K.,Japan,Japan,Software,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-103685,PT Putairou Learning,Indonesia,SEA,Education,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103694,PT Niadaix Education,Indonesia,SEA,Education,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-103723,PT Ceimias Care,Indonesia,SEA,Healthcare,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103772,Ralajil Holdings JSC,Vietnam,SEA,Financial Services,SMB,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-103781,Faiveim Commerce Pvt Ltd,India,India,Retail,Enterprise,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-103781,Faiveim Commerce Pvt Ltd,India,India,Retail,Enterprise,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103807,"Toujou Holdings Co., Ltd.",South Korea,Korea,Financial Services,SMB,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-103823,Foume Retail JSC,,Unknown,Retail,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-103835,Daitonen Engineering Pte Ltd,Singapore,SEA,Manufacturing,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,17000.0,10
+ACC-103835,Daitonen Engineering Pte Ltd,Singapore,SEA,Manufacturing,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,17000.0,10
+ACC-103851,Jiyeis Mart,Japan,Japan,Retail,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-103859,Bepoumiar Cloud K.K.,Japan,Japan,Software,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103866,"Wupox Consulting Co., Ltd.",Thailand,SEA,Professional Services,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-103887,Gaceicia Learning K.K.,Japan,Japan,Education,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103907,Giwian Digital Pty Ltd,Australia,ANZ,Software,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,38000.0,10
+ACC-103929,Teviafox Networks Ltd,New Zealand,ANZ,Telecommunications,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-103940,Ditiam Stores K.K.,Japan,Japan,Retail,Enterprise,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-103945,Nolon Engineering K.K.,Japan,Japan,Manufacturing,Mid-Market,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-103975,PT Wiyax Cloud,Indonesia,SEA,Software,Mid-Market,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-103986,Ceiyum Digital Pty Ltd,Australia,ANZ,Software,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-103986,Ceiyum Digital Pty Ltd,Australia,ANZ,Software,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-103992,Rosouzan Commerce Pvt Ltd,India,India,Retail,SMB,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-103994,"Tolotem Care Co., Ltd.",Thailand,SEA,Healthcare,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-104000,PT Ducai Cloud,,Unknown,Software,Enterprise,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-104012,Nalon Stores K.K.,Japan,Japan,Retail,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-104035,Zeigaimiax Manufacturing K.K.,,Unknown,Manufacturing,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,117000.0,10
+ACC-104053,Vegotin Academy Pvt Ltd,India,India,Education,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,26000.0,10
+ACC-104057,Potiawai Partners Pvt Ltd,India,India,Professional Services,Enterprise,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-104061,Geimoyeis Materials Inc.,Philippines,SEA,Manufacturing,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-104071,"Houyuta Capital Co., Ltd.",South Korea,Korea,Financial Services,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-104074,Saibuheir Industries Sdn Bhd,,Unknown,Manufacturing,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,155000.0,10
+ACC-104088,"Fiasujel Retail Co., Ltd.",Thailand,SEA,Retail,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-104105,"Mavomou Digital Co., Ltd.",Thailand,SEA,Software,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-104118,"Toziayas Consulting Co., Ltd.",South Korea,Korea,Professional Services,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,33000.0,10
+ACC-104122,Meikugi Industries Inc.,Philippines,SEA,Manufacturing,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-104154,"Jiabouroun Labs Co., Ltd.",South Korea,Korea,Software,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-104166,Caipas Freight Pvt Ltd,India,India,Logistics,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-104167,Cafou Digital Pty Ltd,Australia,ANZ,Software,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-104170,Riledai Financial K.K.,Japan,Japan,Financial Services,Enterprise,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-104217,"Leiwo Partners Co., Ltd.",South Korea,Korea,Professional Services,SMB,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-104218,Beiru Medical Pty Ltd,Australia,ANZ,Healthcare,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,96000.0,10
+ACC-104220,Veivezia Technologies Pvt Ltd,India,India,Software,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-104232,Muvizu Stores Pty Ltd,Australia,ANZ,Retail,SMB,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-104236,Meivia Holdings Pte Ltd,Singapore,SEA,Financial Services,SMB,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-104280,Deipin Digital Pte Ltd,Singapore,SEA,Software,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-104284,Fainoux Retail Inc.,Philippines,SEA,Retail,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-104294,"Jolil Systems Co., Ltd.",South Korea,Korea,Software,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-104323,"Jelus Digital Co., Ltd.",Thailand,SEA,Software,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-104323,"Jelus Digital Co., Ltd.",Thailand,SEA,Software,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-104329,"Jiavakia Capital Co., Ltd.",South Korea,Korea,Financial Services,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-104338,Ricain Solutions Ltd,New Zealand,ANZ,Professional Services,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,31000.0,10
+ACC-104350,Sabeim Learning K.K.,Japan,Japan,Education,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-104358,Zouzeiwei Biosciences Pvt Ltd,India,India,Healthcare,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-104371,"Wipeibeim Holdings Co., Ltd.",South Korea,Korea,Financial Services,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-104386,"Molabox Technologies Co., Ltd.",Thailand,SEA,Software,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,97000.0,10
+ACC-104389,Tiawageir Labs Pvt Ltd,India,India,Software,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,14500.0,10
+ACC-104396,"Houzuteis Technologies Co., Ltd.",Thailand,SEA,Software,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-104403,"SOUPOHOU CAPITAL CO., LTD.",South Korea,Korea,Financial Services,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-104438,Zanoul Health Pte Ltd,Singapore,SEA,Healthcare,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,34500.0,10
+ACC-104463,Dekei Advisory Pty Ltd,Australia,ANZ,Professional Services,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-104465,PT Hugai Assurance,Indonesia,SEA,Financial Services,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-104483,"Founucian Manufacturing Co., Ltd.",South Korea,Korea,Manufacturing,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,10000.0,10
+ACC-104527,Pounialer Financial Pty Ltd,Australia,ANZ,Financial Services,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-104535,"Seimeidu Education Co., Ltd.",Thailand,SEA,Education,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-104554,"Tuliar Retail Co., Ltd.",South Korea,Korea,Retail,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-104575,Meliyul Learning K.K.,Japan,Japan,Education,Enterprise,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-104610,Toliahus Materials Pvt Ltd,,Unknown,Manufacturing,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-104639,Ravevaix Technologies Pty Ltd,Australia,ANZ,Software,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-104677,Hafaigaix Solutions Pte Ltd,Singapore,SEA,Professional Services,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-104686,Poupal Stores K.K.,Japan,Japan,Retail,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-104693,"Caiviyiax Institute Co., Ltd.",South Korea,Korea,Education,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-104733,Younour Technologies Pvt Ltd,India,India,Software,Mid-Market,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-104741,Ciawaiyex Industries Sdn Bhd,Malaysia,SEA,Manufacturing,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),22500.0,10
+ACC-104792,Tepum Industries Pty Ltd,Australia,ANZ,Manufacturing,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-104795,Houmes Technologies Pty Ltd,Australia,ANZ,Software,Enterprise,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-104798,Miwamal Commerce Sdn Bhd,Malaysia,SEA,Retail,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),42500.0,10
+ACC-104820,Padevan Care Ltd,New Zealand,ANZ,Healthcare,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),0.0,10
+ACC-104834,Zaihonux Holdings Ltd,New Zealand,ANZ,Financial Services,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-104836,Fagur Manufacturing K.K.,Japan,Japan,Manufacturing,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,70500.0,10
+ACC-104842,Gouwai Engineering K.K.,Japan,Japan,Manufacturing,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,9000.0,10
+ACC-104854,"Cailax Advisory Co., Ltd.",Thailand,SEA,Professional Services,SMB,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-104889,"Gucil Industries Co., Ltd.",Thailand,SEA,Manufacturing,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,98000.0,10
+ACC-104891,"Diriham Assurance Co., Ltd.",South Korea,Korea,Financial Services,SMB,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-104920,Yineneis Assurance Pvt Ltd,India,India,Financial Services,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,8500.0,10
+ACC-104932,Woumiam Engineering K.K.,Japan,Japan,Manufacturing,Mid-Market,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,0.0,10
+ACC-104933,PT Kilun Holdings,Indonesia,SEA,Financial Services,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-104945,Gaizom Biosciences Pty Ltd,Australia,ANZ,Healthcare,SMB,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-104946,Coube Freight Inc.,Philippines,SEA,Logistics,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,19000.0,10
+ACC-104956,"Cabufeir Cloud Co., Ltd.",South Korea,Korea,Software,Unknown,Missing Employee Count,Medium,Enrich headcount (needed for tiering and India owner routing),9500.0,10
+ACC-104964,Youtair Institute Pvt Ltd,India,India,Education,Mid-Market,Stale Account,Medium,Sales to re-engage or mark Inactive; review open opportunities,0.0,10
+ACC-104968,Kiatahu Academy Pvt Ltd,India,India,Education,Mid-Market,Tier Mismatch,Medium,Update Account_Tier to Expected_Tier; check owner,0.0,10
+ACC-104974,"Sougein Stores Co., Ltd.",South Korea,Korea,Retail,SMB,Missing Annual Revenue,Medium,Enrich revenue from firmographic source,12000.0,10
+ACC-104998,Rusohin Freight Pvt Ltd,India,India,Logistics,Mid-Market,Missing Opportunity Info,Medium,Sales to complete stage/value on the open opportunity,0.0,10
+ACC-100048,Wilian Health K.K.,Japan,Japan,Healthcare,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100092,Poufoujo Engineering Inc.,Philippines,SEA,Manufacturing,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100097,Ceigir Industries Pvt Ltd,India,India,Manufacturing,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100103,Henugu Communications K.K.,Japan,Japan,Telecommunications,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100150,Zonai Education Pty Ltd,Australia,ANZ,Education,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100196,Wejoul Mart Pte Ltd,Singapore,SEA,Retail,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100198,Heibeigu Assurance Pvt Ltd,India,India,Financial Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),24000.0,5
+ACC-100215,Cucufu Consulting Pvt Ltd,India,India,Professional Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100223,"Fipal Capital Co., Ltd.",Thailand,SEA,Financial Services,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100284,Nodou Biosciences Pty. Ltd.,Australia,ANZ,Healthcare,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100322,Wayilar Industries Pty Ltd,Australia,ANZ,Manufacturing,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100360,Bususain Holdings Pte Ltd,Singapore,SEA,Financial Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),27000.0,5
+ACC-100375,Kumoux Commerce Pvt Ltd,India,India,Retail,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100413,MAICIACAS MANUFACTURING INC.,Philippines,SEA,Manufacturing,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100434,Jajulo Industries Pty Ltd,Australia,ANZ,Manufacturing,Enterprise,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100444,Pouhour Health Pvt Ltd,,Unknown,Healthcare,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),18000.0,5
+ACC-100454,Jeipos Cloud Pvt Ltd,India,India,Software,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),3500.0,5
+ACC-100500,Heijialais Assurance Pty Ltd,Australia,ANZ,Financial Services,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100503,Wiayum Engineering K.K.,Japan,Japan,Manufacturing,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100533,"Zaizur Retail Co., Ltd.",Thailand,SEA,Retail,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),53500.0,5
+ACC-100599,"Vewum Partners Co., Ltd.",Thailand,SEA,Professional Services,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),54000.0,5
+ACC-100606,Liageil Solutions Inc.,Philippines,SEA,Professional Services,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100607,PT Zagair Learning,Indonesia,SEA,Education,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100625,Jaikum Engineering Ltd,New Zealand,ANZ,Manufacturing,Enterprise,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100661,Makun Labs K.K.,Japan,Japan,Software,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100706,Toupoum Care Pvt Ltd,India,India,Healthcare,Unknown,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100728,Yelagoum Retail Sdn Bhd,Malaysia,SEA,Retail,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100766,Caivon Manufacturing Pvt Ltd,,Unknown,Manufacturing,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100767,Gucuyias Capital Ltd,New Zealand,ANZ,Financial Services,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),39000.0,5
+ACC-100772,"Gupus Industries Co., Ltd.",South Korea,Korea,Manufacturing,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100780,Gaikir Labs Pty Ltd,Australia,ANZ,Software,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),11000.0,5
+ACC-100804,Nolekas Engineering Pty Ltd,Australia,ANZ,Manufacturing,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),30500.0,5
+ACC-100806,PT Ceifiahain Advisory,Indonesia,SEA,Professional Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),12000.0,5
+ACC-100821,BEIFOUWIAS HOLDINGS PTE LTD,Singapore,SEA,Financial Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100846,Jinon Financial K.K.,Japan,Japan,Financial Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),12000.0,5
+ACC-100853,Jiazei Health Inc.,Philippines,SEA,Healthcare,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),43500.0,5
+ACC-100856,PADEM RETAIL PTY LTD,Australia,ANZ,Retail,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100915,Dajou Systems Pty Ltd,Australia,ANZ,Software,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-100945,Zosus Academy Inc.,Philippines,SEA,Education,Enterprise,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),502500.0,5
+ACC-100997,Seroujox Health Pvt Ltd,India,India,Healthcare,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-101077,Neyax Biosciences Pty Ltd,Australia,ANZ,Healthcare,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-101102,Pekun Consulting JSC,Vietnam,SEA,Professional Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-101110,Houzal Digital Pty Ltd,Australia,ANZ,Software,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),17000.0,5
+ACC-101175,Houzax Communications K.K.,Japan,Japan,Telecommunications,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),6000.0,5
+ACC-101188,Hiyiabas Digital Pty Ltd,Australia,ANZ,Software,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-101202,PT Hazou Cloud,Indonesia,SEA,Software,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-101220,Wouhaix Financial Pvt Ltd,India,India,Financial Services,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-101252,Begoum Networks Pte Ltd,Singapore,SEA,Telecommunications,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-101323,Bujedir Financial Pvt Ltd,India,India,Financial Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-101333,Luwial Education Pte Ltd,Singapore,SEA,Education,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-101424,Lourias Financial Ltd,New Zealand,ANZ,Financial Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-101445,Bebeiwi Technologies Pte Ltd,Singapore,SEA,Software,Enterprise,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-101455,Lailux Biosciences Pvt Ltd,India,India,Healthcare,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),22500.0,5
+ACC-101511,"Vobiaciam Consulting Co., Ltd.",Thailand,SEA,Professional Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-101515,PT Rugoroul Industries,Indonesia,SEA,Manufacturing,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-101540,Kenur Assurance K.K.,Japan,Japan,Financial Services,Unknown,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-101639,"Daluve Health Co., Ltd.",South Korea,Korea,Healthcare,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-101701,Sibuyor Consulting K.K.,Japan,Japan,Professional Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),28000.0,5
+ACC-101722,Pocal Medical JSC,Vietnam,SEA,Healthcare,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-101769,Jojerom Institute Pty Ltd,Australia,ANZ,Education,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-101771,"Lutus Engineering Co., Ltd.",Thailand,SEA,Manufacturing,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-101807,Rimaisial Education Pty Ltd,Australia,ANZ,Education,Enterprise,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-101813,Loukex Labs Pte Ltd,Singapore,SEA,Software,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-101816,Gogairias Digital Pvt Ltd,India,India,Software,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-101881,Rouyal Biosciences Pvt Ltd,India,India,Healthcare,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),10000.0,5
+ACC-101905,Feidou Partners K.K.,Japan,Japan,Professional Services,Enterprise,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-101910,Fousafes Networks Ltd,New Zealand,ANZ,Telecommunications,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),107000.0,5
+ACC-101992,PT Bimoul Assurance,Indonesia,SEA,Financial Services,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-102031,Foupiaye Mart Pty Ltd,Australia,ANZ,Retail,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),46000.0,5
+ACC-102032,Yegouzu Partners,Australia,ANZ,Professional Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-102099,Woujawax Communications K.K.,Japan,Japan,Telecommunications,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),279000.0,5
+ACC-102119,Tibougix Advisory Pty Ltd,Australia,ANZ,Professional Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),24500.0,5
+ACC-102129,Masiax Capital Pty Ltd,Australia,ANZ,Financial Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),14000.0,5
+ACC-102263,Mouciatiar Solutions Pvt Ltd,India,India,Professional Services,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),32000.0,5
+ACC-102268,Gagiran Cloud Pte Ltd,Singapore,SEA,Software,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-102297,PT Tubur Capital,Indonesia,SEA,Financial Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-102364,Caidoutair Cloud Pvt Ltd,India,India,Software,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-102387,Kopous Networks Ltd,New Zealand,ANZ,Telecommunications,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),74000.0,5
+ACC-102451,"Bairour Systems Co., Ltd.",Thailand,SEA,Software,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-102593,Beininour Digital K.K.,Japan,Japan,Software,Enterprise,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-102596,Yoteiyus Advisory Pty Ltd,,Unknown,Professional Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-102623,PT Bijil Digital,Indonesia,SEA,Software,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-102626,PEIWUNAN LABS PTE LTD,Singapore,SEA,Software,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-102658,Pikenail Holdings Sdn Bhd,Malaysia,SEA,Financial Services,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-102667,Wizoul Commerce Ltd,New Zealand,ANZ,Retail,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),13000.0,5
+ACC-102674,PT Raiyairer Assurance,Indonesia,SEA,Financial Services,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-102712,"Bizain Labs Co., Ltd.",South Korea,Korea,Software,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-102894,Beseix Materials Ltd,New Zealand,ANZ,Manufacturing,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-102919,Fiadais Biosciences Pty Ltd,Australia,ANZ,Healthcare,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),61500.0,5
+ACC-102944,"Wepapi Manufacturing Co., Ltd.",South Korea,Korea,Manufacturing,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-103093,Kukel Communications Sdn Bhd,Malaysia,SEA,Telecommunications,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-103132,Haipiadex Manufacturing K.K.,Japan,Japan,Manufacturing,Enterprise,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-103175,"Tiayu Retail Co., Ltd.",Thailand,SEA,Retail,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-103188,Jezewum Medical Pty Ltd,Australia,ANZ,Healthcare,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-103202,Godoulil Labs Pvt Ltd,India,India,Software,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-103241,Rofefox Retail K.K.,Japan,Japan,Retail,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-103378,"Yairaivem Logistics Co., Ltd.",Thailand,SEA,Logistics,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-103407,Vodom Industries K.K.,Japan,Japan,Manufacturing,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-103548,Douvias Regional Council,Vietnam,SEA,Government,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-103630,Hiatages Capital Pvt Ltd,India,India,Financial Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),5500.0,5
+ACC-103709,Beimon Cloud Pte Ltd,Singapore,SEA,Software,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),55500.0,5
+ACC-103748,Jaiwai Telecom Pte Ltd,Singapore,SEA,Telecommunications,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),61000.0,5
+ACC-103755,Behai Materials Pte Ltd,Singapore,SEA,Manufacturing,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-103786,Bemeiyes Communications Ltd,New Zealand,ANZ,Telecommunications,Enterprise,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),134000.0,5
+ACC-103790,"Tamou Advisory Co., Ltd.",Thailand,SEA,Professional Services,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),78500.0,5
+ACC-103842,PT Yisun Solutions,Indonesia,SEA,Professional Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-103917,Pumikais Technologies Pty Ltd,Australia,ANZ,Software,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-103990,Yiazoux Learning K.K.,Japan,Japan,Education,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-104014,Jaigouvais Engineering Pty Ltd,Australia,ANZ,Manufacturing,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),245000.0,5
+ACC-104022,Faiwiagar Financial K.K.,Japan,Japan,Financial Services,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-104049,Gidei Retail Inc.,Philippines,SEA,Retail,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),156500.0,5
+ACC-104063,Sohein Stores Pte Ltd,Singapore,SEA,Retail,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),5000.0,5
+ACC-104065,Neidein Supply Chain K.K.,Japan,Japan,Logistics,Enterprise,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-104427,Dafaseil Care JSC,Vietnam,SEA,Healthcare,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-104428,Taipaiyes Medical Pte Ltd,Singapore,SEA,Healthcare,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-104432,Nufein Cloud Pty Ltd,Australia,ANZ,Software,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),100500.0,5
+ACC-104493,Paive Supply Chain Pte Ltd,Singapore,SEA,Logistics,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-104503,Nuwaigis Assurance JSC,Vietnam,SEA,Financial Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),9000.0,5
+ACC-104526,Ruyeil Freight Pty. Ltd.,Australia,ANZ,Logistics,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-104576,Lizousu Learning K.K.,Japan,Japan,Education,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-104604,JOUSU HOLDINGS PTY LTD,Australia,ANZ,Financial Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-104636,Yadipeim Systems,Thailand,SEA,Software,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-104651,"Jeifial Holdings Co., Ltd.",South Korea,Korea,Financial Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-104654,"Raizan Systems Co., Ltd.",Other,Unknown,Software,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),209000.0,5
+ACC-104681,Wousix Manufacturing K.K.,Japan,Japan,Manufacturing,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),24500.0,5
+ACC-104709,MEYOTUM TECHNOLOGIES INC.,Philippines,SEA,Software,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-104713,Nuyialo Systems,India,India,Software,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-104813,Seizi Digital Pvt Ltd,India,India,Software,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-104824,Yeitais Assurance JSC,Vietnam,SEA,Financial Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-104878,PT Caikax Education,Indonesia,SEA,Education,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),17000.0,5
+ACC-104910,Tiatagias Solutions Pvt Ltd,India,India,Professional Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-104913,Hadais Systems Pvt Ltd,India,India,Software,Mid-Market,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),47000.0,5
+ACC-104923,Puhail Partners Pvt Ltd,India,India,Professional Services,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),24000.0,5
+ACC-104975,VAKEIJAN INDUSTRIES PVT LTD,India,India,Manufacturing,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),0.0,5
+ACC-104985,Feirox Mart Inc.,Philippines,SEA,Retail,SMB,Invalid Domain,Low,Correct or populate Website_Domain (also used for duplicate matching),36000.0,5
